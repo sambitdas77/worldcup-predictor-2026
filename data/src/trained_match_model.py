@@ -88,6 +88,17 @@ MODEL_SCORE_COLUMNS = [
     "data_confidence_score",
 ]
 
+MODEL_CONTEXT_COLUMNS = [
+    "elo_diff",
+    "elo_absdiff",
+    "home_advantage",
+    "is_neutral",
+    "is_world_cup",
+    "is_qualifier",
+    "is_friendly",
+    "is_continental",
+]
+
 
 def load_inputs() -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     teams = pd.read_csv(PROCESSED_DIR / "final_team_features.csv", encoding="latin-1")
@@ -138,7 +149,6 @@ def add_missing_team_placeholders(teams: pd.DataFrame, needed_codes: set[str]) -
 def prepare_results(results: pd.DataFrame, min_year: int = 2018) -> pd.DataFrame:
     df = results.copy()
     df["date"] = pd.to_datetime(df["date"], errors="coerce", format="mixed", dayfirst=True)
-    df = df[df["date"].dt.year >= min_year].copy()
     df = df.dropna(subset=["home_score", "away_score", "home_team", "away_team"])
     df["home_code"] = df["home_team"].map(NAME_TO_CODE)
     df["away_code"] = df["away_team"].map(NAME_TO_CODE)
@@ -154,14 +164,112 @@ def prepare_results(results: pd.DataFrame, min_year: int = 2018) -> pd.DataFrame
         default="unknown",
     )
     df = df[df["result"] != "unknown"].copy()
+    df = add_elo_history(df)
+    df = add_match_context_features(df)
+    df = df[df["date"].dt.year >= min_year].copy()
     return df
+
+
+def tournament_k_factor(tournament: object) -> float:
+    name = str(tournament).lower()
+    if "world cup" in name and "qualification" not in name:
+        return 60.0
+    if "qualification" in name or "qualifier" in name:
+        return 40.0
+    if any(token in name for token in ["euro", "copa", "africa cup", "asian cup", "gold cup", "nations league"]):
+        return 35.0
+    if "friendly" in name:
+        return 20.0
+    return 30.0
+
+
+def goal_margin_multiplier(home_score: float, away_score: float) -> float:
+    margin = abs(float(home_score) - float(away_score))
+    if margin <= 1:
+        return 1.0
+    return float(np.log(margin + 1))
+
+
+def add_elo_history(results: pd.DataFrame, base_rating: float = 1500.0, home_advantage: float = 60.0) -> pd.DataFrame:
+    df = results.sort_values("date").copy()
+    ratings: dict[str, float] = {}
+    pre_home = []
+    pre_away = []
+    post_home = []
+    post_away = []
+
+    for _, match in df.iterrows():
+        home = match["home_code"]
+        away = match["away_code"]
+        home_rating = ratings.get(home, base_rating)
+        away_rating = ratings.get(away, base_rating)
+        neutral = bool(match.get("neutral", False))
+        advantage = 0.0 if neutral else home_advantage
+
+        expected_home = 1 / (1 + 10 ** ((away_rating - (home_rating + advantage)) / 400))
+        if match["home_score"] > match["away_score"]:
+            actual_home = 1.0
+        elif match["home_score"] == match["away_score"]:
+            actual_home = 0.5
+        else:
+            actual_home = 0.0
+
+        k = tournament_k_factor(match.get("tournament")) * goal_margin_multiplier(match["home_score"], match["away_score"])
+        change = k * (actual_home - expected_home)
+
+        pre_home.append(home_rating)
+        pre_away.append(away_rating)
+        ratings[home] = home_rating + change
+        ratings[away] = away_rating - change
+        post_home.append(ratings[home])
+        post_away.append(ratings[away])
+
+    df["home_elo_pre"] = pre_home
+    df["away_elo_pre"] = pre_away
+    df["home_elo_post"] = post_home
+    df["away_elo_post"] = post_away
+    return df.sort_index()
+
+
+def latest_elo_ratings(results: pd.DataFrame) -> dict[str, float]:
+    completed = results.copy()
+    completed["date"] = pd.to_datetime(completed["date"], errors="coerce", format="mixed", dayfirst=True)
+    completed = completed.dropna(subset=["home_score", "away_score", "home_team", "away_team"])
+    completed["home_code"] = completed["home_team"].map(NAME_TO_CODE)
+    completed["away_code"] = completed["away_team"].map(NAME_TO_CODE)
+    completed = completed.dropna(subset=["home_code", "away_code"])
+    with_elo = add_elo_history(completed)
+    ratings: dict[str, float] = {}
+    for _, match in with_elo.sort_values("date").iterrows():
+        ratings[match["home_code"]] = float(match["home_elo_post"])
+        ratings[match["away_code"]] = float(match["away_elo_post"])
+    return ratings
+
+
+def add_match_context_features(df: pd.DataFrame) -> pd.DataFrame:
+    out = df.copy()
+    tournament = out["tournament"].fillna("").astype(str).str.lower()
+    out["elo_diff"] = pd.to_numeric(out["home_elo_pre"], errors="coerce").fillna(1500) - pd.to_numeric(
+        out["away_elo_pre"], errors="coerce"
+    ).fillna(1500)
+    out["elo_absdiff"] = out["elo_diff"].abs()
+    out["is_neutral"] = out["neutral"].astype(bool).astype(int)
+    out["home_advantage"] = (1 - out["is_neutral"]) * 1
+    out["is_world_cup"] = (tournament.str.contains("world cup") & ~tournament.str.contains("qualification")).astype(int)
+    out["is_qualifier"] = (tournament.str.contains("qualification") | tournament.str.contains("qualifier")).astype(int)
+    out["is_friendly"] = tournament.str.contains("friendly").astype(int)
+    out["is_continental"] = tournament.str.contains(
+        "euro|copa|africa cup|asian cup|gold cup|nations league",
+        regex=True,
+    ).astype(int)
+    return out
 
 
 def team_lookup(teams: pd.DataFrame) -> dict[str, pd.Series]:
     return {row["nation_code"]: row for _, row in teams.iterrows()}
 
 
-def matchup_features(team_a: pd.Series, team_b: pd.Series) -> dict[str, float]:
+def matchup_features(team_a: pd.Series, team_b: pd.Series, context: pd.Series | dict | None = None) -> dict[str, float]:
     features = {}
     for col in MODEL_SCORE_COLUMNS:
         a = float(team_a.get(col, 0) or 0)
@@ -170,6 +278,12 @@ def matchup_features(team_a: pd.Series, team_b: pd.Series) -> dict[str, float]:
         features[f"{col}_absdiff"] = abs(a - b)
     features["attack_vs_defense_diff"] = float(team_a.get("attack_score", 0)) - float(team_b.get("defense_score", 0))
     features["defense_vs_attack_diff"] = float(team_a.get("defense_score", 0)) - float(team_b.get("attack_score", 0))
+    if context is not None:
+        for col in MODEL_CONTEXT_COLUMNS:
+            try:
+                features[col] = float(context.get(col, 0) or 0)
+            except (TypeError, ValueError):
+                features[col] = 0.0
     return features
 
 
@@ -183,7 +297,7 @@ def build_training_data(results: pd.DataFrame, teams: pd.DataFrame) -> tuple[pd.
         away = lookup.get(match["away_code"])
         if home is None or away is None:
             continue
-        rows.append(matchup_features(home, away))
+        rows.append(matchup_features(home, away, match))
         labels.append(match["result"])
 
     X = pd.DataFrame(rows).fillna(0)
@@ -228,7 +342,7 @@ def train_models(X: pd.DataFrame, y: pd.Series) -> tuple[Pipeline, RandomForestC
     return logistic, forest, metrics
 
 
-def predict_fixtures(fixtures: pd.DataFrame, teams: pd.DataFrame, model) -> pd.DataFrame:
+def predict_fixtures(fixtures: pd.DataFrame, teams: pd.DataFrame, model, elo_ratings: dict[str, float] | None = None) -> pd.DataFrame:
     lookup = team_lookup(teams)
     classes = list(model.classes_) if hasattr(model, "classes_") else list(model.named_steps["model"].classes_)
 
@@ -242,7 +356,20 @@ def predict_fixtures(fixtures: pd.DataFrame, teams: pd.DataFrame, model) -> pd.D
             rows.append({**fixture.to_dict(), "prediction_status": "missing_team_features"})
             continue
 
-        X = pd.DataFrame([matchup_features(team_a, team_b)]).fillna(0)
+        elo_ratings = elo_ratings or {}
+        team_a_elo = elo_ratings.get(team_a_code, 1500.0)
+        team_b_elo = elo_ratings.get(team_b_code, 1500.0)
+        context = {
+            "elo_diff": team_a_elo - team_b_elo,
+            "elo_absdiff": abs(team_a_elo - team_b_elo),
+            "home_advantage": 0,
+            "is_neutral": 1,
+            "is_world_cup": 1,
+            "is_qualifier": 0,
+            "is_friendly": 0,
+            "is_continental": 0,
+        }
+        X = pd.DataFrame([matchup_features(team_a, team_b, context)]).fillna(0)
         probs = dict(zip(classes, model.predict_proba(X)[0]))
         predicted = max(probs, key=probs.get)
         rows.append(
@@ -251,6 +378,8 @@ def predict_fixtures(fixtures: pd.DataFrame, teams: pd.DataFrame, model) -> pd.D
                 "team_a_code": team_a_code,
                 "team_b_code": team_b_code,
                 "prediction_status": "ok",
+                "team_a_elo": team_a_elo,
+                "team_b_elo": team_b_elo,
                 "team_a_win_prob": probs.get("home_win", 0),
                 "draw_prob": probs.get("draw", 0),
                 "team_b_win_prob": probs.get("away_win", 0),
@@ -292,6 +421,7 @@ def main() -> None:
     fixture_codes = set(fixtures["team_a"].map(NAME_TO_CODE).dropna()) | set(fixtures["team_b"].map(NAME_TO_CODE).dropna())
     teams = add_missing_team_placeholders(teams, fixture_codes)
     recent_results = prepare_results(results, min_year=2018)
+    elo_ratings = latest_elo_ratings(results)
     X, y = build_training_data(recent_results, teams)
 
     print(f"Training matches after mapping: {len(X)}")
@@ -302,7 +432,7 @@ def main() -> None:
     best_model = logistic if best_model_name == "logistic_regression" else forest
     print(f"\nUsing best validation model for fixtures: {best_model_name}")
 
-    predictions = predict_fixtures(fixtures, teams, best_model)
+    predictions = predict_fixtures(fixtures, teams, best_model, elo_ratings)
     group_tables = build_group_tables(predictions)
 
     metrics.to_csv(PROCESSED_DIR / "trained_model_metrics.csv", index=False)

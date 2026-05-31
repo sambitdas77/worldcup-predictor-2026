@@ -1,0 +1,9186 @@
+{
+  "teams": [
+    {
+      "code": "ARG",
+      "name": "Argentina",
+      "flag": "ar",
+      "power": 87.41,
+      "attack": 88.21,
+      "creation": 90.52,
+      "defense": 91.16,
+      "keeper": 74.17,
+      "depth": 97.92,
+      "confidence": 94.62,
+      "titleProb": 0.1036,
+      "finalProb": 0.183,
+      "semiProb": 0.2615
+    },
+    {
+      "code": "FRA",
+      "name": "France",
+      "flag": "fr",
+      "power": 86.1,
+      "attack": 96.9,
+      "creation": 90.1,
+      "defense": 48.43,
+      "keeper": 97.08,
+      "depth": 95.83,
+      "confidence": 98.65,
+      "titleProb": 0.2506,
+      "finalProb": 0.3838,
+      "semiProb": 0.583
+    },
+    {
+      "code": "ENG",
+      "name": "England",
+      "flag": "gb-eng",
+      "power": 84.4,
+      "attack": 95.25,
+      "creation": 94.61,
+      "defense": 82.45,
+      "keeper": 32.5,
+      "depth": 89.58,
+      "confidence": 98.65,
+      "titleProb": 0.0434,
+      "finalProb": 0.0953,
+      "semiProb": 0.2174
+    },
+    {
+      "code": "BEL",
+      "name": "Belgium",
+      "flag": "be",
+      "power": 81.73,
+      "attack": 93.88,
+      "creation": 81.38,
+      "defense": 58.03,
+      "keeper": 92.92,
+      "depth": 83.33,
+      "confidence": 93.27,
+      "titleProb": 0.0696,
+      "finalProb": 0.1681,
+      "semiProb": 0.3381
+    },
+    {
+      "code": "GER",
+      "name": "Germany",
+      "flag": "de",
+      "power": 78.83,
+      "attack": 86.26,
+      "creation": 94.53,
+      "defense": 70.33,
+      "keeper": 27.08,
+      "depth": 93.75,
+      "confidence": 98.6,
+      "titleProb": 0.0185,
+      "finalProb": 0.0545,
+      "semiProb": 0.1414
+    },
+    {
+      "code": "POR",
+      "name": "Portugal",
+      "flag": "pt",
+      "power": 78.09,
+      "attack": 85.36,
+      "creation": 96.88,
+      "defense": 54.36,
+      "keeper": 54.38,
+      "depth": 87.5,
+      "confidence": 94.62,
+      "titleProb": 0.1709,
+      "finalProb": 0.2686,
+      "semiProb": 0.3932
+    },
+    {
+      "code": "NED",
+      "name": "Netherlands",
+      "flag": "nl",
+      "power": 76.52,
+      "attack": 70.53,
+      "creation": 92.53,
+      "defense": 53.18,
+      "keeper": 77.5,
+      "depth": 100.0,
+      "confidence": 99.09,
+      "titleProb": 0.0559,
+      "finalProb": 0.1164,
+      "semiProb": 0.2261
+    },
+    {
+      "code": "ESP",
+      "name": "Spain",
+      "flag": "es",
+      "power": 76.51,
+      "attack": 83.08,
+      "creation": 74.97,
+      "defense": 90.77,
+      "keeper": 30.83,
+      "depth": 91.67,
+      "confidence": 97.31,
+      "titleProb": 0.087,
+      "finalProb": 0.1799,
+      "semiProb": 0.2955
+    },
+    {
+      "code": "SEN",
+      "name": "Senegal",
+      "flag": "sn",
+      "power": 73.08,
+      "attack": 84.62,
+      "creation": 77.76,
+      "defense": 79.94,
+      "keeper": 20.83,
+      "depth": 81.25,
+      "confidence": 94.62,
+      "titleProb": 0.005,
+      "finalProb": 0.0182,
+      "semiProb": 0.0708
+    },
+    {
+      "code": "BRA",
+      "name": "Brazil",
+      "flag": "br",
+      "power": 68.57,
+      "attack": 87.51,
+      "creation": 88.7,
+      "defense": 29.88,
+      "keeper": 25.21,
+      "depth": 85.42,
+      "confidence": 93.27,
+      "titleProb": 0.0603,
+      "finalProb": 0.1109,
+      "semiProb": 0.2677
+    },
+    {
+      "code": "SUI",
+      "name": "Switzerland",
+      "flag": "ch",
+      "power": 65.87,
+      "attack": 58.47,
+      "creation": 51.25,
+      "defense": 82.12,
+      "keeper": 95.0,
+      "depth": 70.83,
+      "confidence": 95.96,
+      "titleProb": 0.0126,
+      "finalProb": 0.045,
+      "semiProb": 0.1025
+    },
+    {
+      "code": "AUT",
+      "name": "Austria",
+      "flag": "at",
+      "power": 63.29,
+      "attack": 62.35,
+      "creation": 68.1,
+      "defense": 72.16,
+      "keeper": 54.38,
+      "depth": 64.58,
+      "confidence": 90.58,
+      "titleProb": 0.0062,
+      "finalProb": 0.0215,
+      "semiProb": 0.0633
+    },
+    {
+      "code": "NOR",
+      "name": "Norway",
+      "flag": "no",
+      "power": 61.65,
+      "attack": 78.59,
+      "creation": 67.53,
+      "defense": 38.06,
+      "keeper": 62.08,
+      "depth": 54.17,
+      "confidence": 84.69,
+      "titleProb": 0.0021,
+      "finalProb": 0.0095,
+      "semiProb": 0.0355
+    },
+    {
+      "code": "COL",
+      "name": "Colombia",
+      "flag": "co",
+      "power": 58.05,
+      "attack": 59.91,
+      "creation": 80.34,
+      "defense": 41.7,
+      "keeper": 54.38,
+      "depth": 58.33,
+      "confidence": 81.15,
+      "titleProb": 0.0304,
+      "finalProb": 0.0747,
+      "semiProb": 0.1544
+    },
+    {
+      "code": "CRO",
+      "name": "Croatia",
+      "flag": "hr",
+      "power": 56.46,
+      "attack": 73.21,
+      "creation": 59.09,
+      "defense": 36.08,
+      "keeper": 54.38,
+      "depth": 56.25,
+      "confidence": 82.5,
+      "titleProb": 0.0295,
+      "finalProb": 0.0687,
+      "semiProb": 0.1704
+    },
+    {
+      "code": "SWE",
+      "name": "Sweden",
+      "flag": "se",
+      "power": 56.05,
+      "attack": 63.35,
+      "creation": 38.88,
+      "defense": 89.07,
+      "keeper": 54.38,
+      "depth": 39.58,
+      "confidence": 83.85,
+      "titleProb": 0.0002,
+      "finalProb": 0.0014,
+      "semiProb": 0.0064
+    },
+    {
+      "code": "TUR",
+      "name": "Turkey",
+      "flag": "tr",
+      "power": 55.56,
+      "attack": 61.95,
+      "creation": 57.37,
+      "defense": 63.29,
+      "keeper": 46.67,
+      "depth": 68.75,
+      "confidence": 71.08,
+      "titleProb": 0.0031,
+      "finalProb": 0.0149,
+      "semiProb": 0.0462
+    },
+    {
+      "code": "MAR",
+      "name": "Morocco",
+      "flag": "ma",
+      "power": 55.09,
+      "attack": 55.82,
+      "creation": 60.76,
+      "defense": 71.39,
+      "keeper": 9.17,
+      "depth": 66.67,
+      "confidence": 98.18,
+      "titleProb": 0.0067,
+      "finalProb": 0.0277,
+      "semiProb": 0.0969
+    },
+    {
+      "code": "USA",
+      "name": "United States",
+      "flag": "us",
+      "power": 53.36,
+      "attack": 70.82,
+      "creation": 55.96,
+      "defense": 50.79,
+      "keeper": 9.17,
+      "depth": 45.83,
+      "confidence": 98.18,
+      "titleProb": 0.0004,
+      "finalProb": 0.0033,
+      "semiProb": 0.0179
+    },
+    {
+      "code": "CZE",
+      "name": "Czechia",
+      "flag": "cz",
+      "power": 53.03,
+      "attack": 63.74,
+      "creation": 41.43,
+      "defense": 67.24,
+      "keeper": 46.67,
+      "depth": 75.0,
+      "confidence": 66.53,
+      "titleProb": 0.0004,
+      "finalProb": 0.0025,
+      "semiProb": 0.0141
+    },
+    {
+      "code": "BIH",
+      "name": "Bosnia and Herzegovina",
+      "flag": "ba",
+      "power": 51.75,
+      "attack": 59.8,
+      "creation": 43.72,
+      "defense": 71.79,
+      "keeper": 54.38,
+      "depth": 43.75,
+      "confidence": 71.73,
+      "titleProb": 0.0002,
+      "finalProb": 0.0015,
+      "semiProb": 0.0086
+    },
+    {
+      "code": "EGY",
+      "name": "Egypt",
+      "flag": "eg",
+      "power": 50.71,
+      "attack": 54.21,
+      "creation": 62.92,
+      "defense": 56.84,
+      "keeper": 54.38,
+      "depth": 37.5,
+      "confidence": 67.42,
+      "titleProb": 0.0004,
+      "finalProb": 0.0031,
+      "semiProb": 0.0129
+    },
+    {
+      "code": "PAR",
+      "name": "Paraguay",
+      "flag": "py",
+      "power": 48.76,
+      "attack": 28.52,
+      "creation": 63.93,
+      "defense": 73.29,
+      "keeper": 46.67,
+      "depth": 77.08,
+      "confidence": 71.73,
+      "titleProb": 0.0019,
+      "finalProb": 0.0055,
+      "semiProb": 0.0244
+    },
+    {
+      "code": "URU",
+      "name": "Uruguay",
+      "flag": "uy",
+      "power": 46.5,
+      "attack": 51.31,
+      "creation": 70.65,
+      "defense": 20.1,
+      "keeper": 46.67,
+      "depth": 18.75,
+      "confidence": 98.18,
+      "titleProb": 0.0205,
+      "finalProb": 0.0542,
+      "semiProb": 0.1198
+    },
+    {
+      "code": "CIV",
+      "name": "Cote d'Ivoire",
+      "flag": "ci",
+      "power": 46.3,
+      "attack": 53.18,
+      "creation": 33.72,
+      "defense": 55.39,
+      "keeper": 54.38,
+      "depth": 50.0,
+      "confidence": 81.54,
+      "titleProb": 0.002,
+      "finalProb": 0.0082,
+      "semiProb": 0.0276
+    },
+    {
+      "code": "KOR",
+      "name": "South Korea",
+      "flag": "kr",
+      "power": 44.52,
+      "attack": 38.93,
+      "creation": 37.14,
+      "defense": 73.71,
+      "keeper": 54.38,
+      "depth": 52.08,
+      "confidence": 71.73,
+      "titleProb": 0.0008,
+      "finalProb": 0.0044,
+      "semiProb": 0.0221
+    },
+    {
+      "code": "MEX",
+      "name": "Mexico",
+      "flag": "mx",
+      "power": 43.07,
+      "attack": 40.27,
+      "creation": 41.76,
+      "defense": 77.41,
+      "keeper": 9.17,
+      "depth": 72.92,
+      "confidence": 67.69,
+      "titleProb": 0.0007,
+      "finalProb": 0.0044,
+      "semiProb": 0.0217
+    },
+    {
+      "code": "NZL",
+      "name": "New Zealand",
+      "flag": "nz",
+      "power": 43.03,
+      "attack": 52.26,
+      "creation": 51.73,
+      "defense": 31.82,
+      "keeper": 54.38,
+      "depth": 33.33,
+      "confidence": 67.69,
+      "titleProb": 0.0,
+      "finalProb": 0.0,
+      "semiProb": 0.0002
+    },
+    {
+      "code": "COD",
+      "name": "DR Congo",
+      "flag": "cd",
+      "power": 40.11,
+      "attack": 38.28,
+      "creation": 23.36,
+      "defense": 55.69,
+      "keeper": 100.0,
+      "depth": 8.33,
+      "confidence": 81.15,
+      "titleProb": 0.0002,
+      "finalProb": 0.0005,
+      "semiProb": 0.0032
+    },
+    {
+      "code": "IRN",
+      "name": "Iran",
+      "flag": "ir",
+      "power": 39.9,
+      "attack": 39.23,
+      "creation": 38.16,
+      "defense": 50.28,
+      "keeper": 54.38,
+      "depth": 47.92,
+      "confidence": 65.74,
+      "titleProb": 0.0003,
+      "finalProb": 0.0018,
+      "semiProb": 0.0112
+    },
+    {
+      "code": "JPN",
+      "name": "Japan",
+      "flag": "jp",
+      "power": 38.31,
+      "attack": 39.14,
+      "creation": 42.66,
+      "defense": 16.76,
+      "keeper": 88.33,
+      "depth": 16.67,
+      "confidence": 86.54,
+      "titleProb": 0.0086,
+      "finalProb": 0.0231,
+      "semiProb": 0.0642
+    },
+    {
+      "code": "HAI",
+      "name": "Haiti",
+      "flag": "ht",
+      "power": 36.32,
+      "attack": 37.29,
+      "creation": 27.19,
+      "defense": 57.02,
+      "keeper": 54.38,
+      "depth": 29.17,
+      "confidence": 67.27,
+      "titleProb": 0.0,
+      "finalProb": 0.0,
+      "semiProb": 0.0002
+    },
+    {
+      "code": "GHA",
+      "name": "Ghana",
+      "flag": "gh",
+      "power": 35.48,
+      "attack": 32.41,
+      "creation": 36.2,
+      "defense": 47.8,
+      "keeper": 46.67,
+      "depth": 10.42,
+      "confidence": 98.18,
+      "titleProb": 0.0,
+      "finalProb": 0.001,
+      "semiProb": 0.0052
+    },
+    {
+      "code": "CUW",
+      "name": "Curacao",
+      "flag": "cw",
+      "power": 35.07,
+      "attack": 27.15,
+      "creation": 40.59,
+      "defense": 50.22,
+      "keeper": 54.38,
+      "depth": 35.42,
+      "confidence": 61.93,
+      "titleProb": 0.0,
+      "finalProb": 0.0,
+      "semiProb": 0.0001
+    },
+    {
+      "code": "JOR",
+      "name": "Jordan",
+      "flag": "jo",
+      "power": 34.88,
+      "attack": 34.09,
+      "creation": 31.03,
+      "defense": 48.72,
+      "keeper": 46.67,
+      "depth": 41.67,
+      "confidence": 65.0,
+      "titleProb": 0.0,
+      "finalProb": 0.0001,
+      "semiProb": 0.0015
+    },
+    {
+      "code": "QAT",
+      "name": "Qatar",
+      "flag": "qa",
+      "power": 34.44,
+      "attack": 29.15,
+      "creation": 34.65,
+      "defense": 40.22,
+      "keeper": 46.67,
+      "depth": 60.42,
+      "confidence": 65.0,
+      "titleProb": 0.0,
+      "finalProb": 0.0002,
+      "semiProb": 0.0009
+    },
+    {
+      "code": "RSA",
+      "name": "South Africa",
+      "flag": "za",
+      "power": 33.84,
+      "attack": 33.78,
+      "creation": 32.06,
+      "defense": 7.05,
+      "keeper": 46.67,
+      "depth": 79.17,
+      "confidence": 90.91,
+      "titleProb": 0.0011,
+      "finalProb": 0.0064,
+      "semiProb": 0.027
+    },
+    {
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "flag": "uz",
+      "power": 32.4,
+      "attack": 22.57,
+      "creation": 30.43,
+      "defense": 45.56,
+      "keeper": 46.67,
+      "depth": 62.5,
+      "confidence": 64.41,
+      "titleProb": 0.0,
+      "finalProb": 0.0002,
+      "semiProb": 0.0022
+    },
+    {
+      "code": "CPV",
+      "name": "Cabo Verde",
+      "flag": "cv",
+      "power": 31.25,
+      "attack": 28.58,
+      "creation": 37.84,
+      "defense": 29.41,
+      "keeper": 54.38,
+      "depth": 27.08,
+      "confidence": 67.69,
+      "titleProb": 0.0,
+      "finalProb": 0.0001,
+      "semiProb": 0.0009
+    },
+    {
+      "code": "PAN",
+      "name": "Panama",
+      "flag": "pa",
+      "power": 27.43,
+      "attack": 17.23,
+      "creation": 19.21,
+      "defense": 53.22,
+      "keeper": 54.38,
+      "depth": 31.25,
+      "confidence": 65.0,
+      "titleProb": 0.0,
+      "finalProb": 0.0008,
+      "semiProb": 0.0044
+    },
+    {
+      "code": "SCO",
+      "name": "Scotland",
+      "flag": "gb-sct",
+      "power": 25.69,
+      "attack": 35.18,
+      "creation": 31.85,
+      "defense": 17.8,
+      "keeper": 16.88,
+      "depth": 14.58,
+      "confidence": 81.15,
+      "titleProb": 0.0004,
+      "finalProb": 0.0033,
+      "semiProb": 0.0132
+    },
+    {
+      "code": "IRQ",
+      "name": "Iraq",
+      "flag": "iq",
+      "power": 25.55,
+      "attack": 26.42,
+      "creation": 28.46,
+      "defense": 23.6,
+      "keeper": 46.67,
+      "depth": 22.92,
+      "confidence": 58.5,
+      "titleProb": 0.0,
+      "finalProb": 0.0,
+      "semiProb": 0.0003
+    },
+    {
+      "code": "SAU",
+      "name": "Saudi Arabia",
+      "flag": "sa",
+      "power": 25.55,
+      "attack": 26.42,
+      "creation": 28.46,
+      "defense": 23.6,
+      "keeper": 46.67,
+      "depth": 22.92,
+      "confidence": 58.5,
+      "titleProb": 0.0,
+      "finalProb": 0.0002,
+      "semiProb": 0.0011
+    },
+    {
+      "code": "DZA",
+      "name": "Algeria",
+      "flag": "dz",
+      "power": 25.55,
+      "attack": 26.42,
+      "creation": 28.46,
+      "defense": 23.6,
+      "keeper": 46.67,
+      "depth": 22.92,
+      "confidence": 58.5,
+      "titleProb": 0.001,
+      "finalProb": 0.0034,
+      "semiProb": 0.0123
+    },
+    {
+      "code": "TUN",
+      "name": "Tunisia",
+      "flag": "tn",
+      "power": 24.35,
+      "attack": 20.69,
+      "creation": 32.42,
+      "defense": 15.01,
+      "keeper": 54.38,
+      "depth": 12.5,
+      "confidence": 77.12,
+      "titleProb": 0.0011,
+      "finalProb": 0.0045,
+      "semiProb": 0.0173
+    },
+    {
+      "code": "ECU",
+      "name": "Ecuador",
+      "flag": "ec",
+      "power": 21.9,
+      "attack": 7.39,
+      "creation": 4.43,
+      "defense": 70.55,
+      "keeper": 46.67,
+      "depth": 2.08,
+      "confidence": 94.55,
+      "titleProb": 0.0025,
+      "finalProb": 0.016,
+      "semiProb": 0.0541
+    },
+    {
+      "code": "AUS",
+      "name": "Australia",
+      "flag": "au",
+      "power": 20.25,
+      "attack": 12.05,
+      "creation": 13.78,
+      "defense": 31.06,
+      "keeper": 58.75,
+      "depth": 4.17,
+      "confidence": 90.91,
+      "titleProb": 0.001,
+      "finalProb": 0.0035,
+      "semiProb": 0.0169
+    },
+    {
+      "code": "CAN",
+      "name": "Canada",
+      "flag": "ca",
+      "power": 19.77,
+      "attack": 18.24,
+      "creation": 20.52,
+      "defense": 12.03,
+      "keeper": 46.67,
+      "depth": 6.25,
+      "confidence": 97.27,
+      "titleProb": 0.0009,
+      "finalProb": 0.0057,
+      "semiProb": 0.0242
+    }
+  ],
+  "lineups": {
+    "MEX": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Guillermo Ochoa"
+        },
+        {
+          "role": "RB",
+          "name": "Jorge Sanchez"
+        },
+        {
+          "role": "CB",
+          "name": "Cesar Montes"
+        },
+        {
+          "role": "CB",
+          "name": "Johan Vasquez"
+        },
+        {
+          "role": "LB",
+          "name": "Jesus Gallardo"
+        },
+        {
+          "role": "CM",
+          "name": "Edson Alvarez"
+        },
+        {
+          "role": "CM",
+          "name": "Luis Chavez"
+        },
+        {
+          "role": "CM",
+          "name": "Orbelin Pineda"
+        },
+        {
+          "role": "RW",
+          "name": "Roberto Alvarado"
+        },
+        {
+          "role": "ST",
+          "name": "Santiago Gimenez"
+        },
+        {
+          "role": "LW",
+          "name": "Cesar Huerta"
+        }
+      ]
+    },
+    "RSA": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Ronwen Williams"
+        },
+        {
+          "role": "RB",
+          "name": "Khuliso Mudau"
+        },
+        {
+          "role": "CB",
+          "name": "Mothobi Mvala"
+        },
+        {
+          "role": "CB",
+          "name": "Siyanda Xulu"
+        },
+        {
+          "role": "LB",
+          "name": "Aubrey Modiba"
+        },
+        {
+          "role": "DM",
+          "name": "Teboho Mokoena"
+        },
+        {
+          "role": "DM",
+          "name": "Sphephelo Sithole"
+        },
+        {
+          "role": "RW",
+          "name": "Percy Tau"
+        },
+        {
+          "role": "AM",
+          "name": "Themba Zwane"
+        },
+        {
+          "role": "LW",
+          "name": "Elias Mokwana"
+        },
+        {
+          "role": "ST",
+          "name": "Lyle Foster"
+        }
+      ]
+    },
+    "KOR": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Jo Hyun-Woo"
+        },
+        {
+          "role": "RB",
+          "name": "Seol Young-Woo"
+        },
+        {
+          "role": "CB",
+          "name": "Kim Min-Jae"
+        },
+        {
+          "role": "CB",
+          "name": "Lee Han-Beom"
+        },
+        {
+          "role": "LB",
+          "name": "Lee Tae-Seok"
+        },
+        {
+          "role": "DM",
+          "name": "Hwang In-Beom"
+        },
+        {
+          "role": "DM",
+          "name": "Paik Seung-Ho"
+        },
+        {
+          "role": "RW",
+          "name": "Lee Kang-In"
+        },
+        {
+          "role": "AM",
+          "name": "Lee Jae-Sung"
+        },
+        {
+          "role": "LW",
+          "name": "Hwang Hee-Chan"
+        },
+        {
+          "role": "ST",
+          "name": "Son Heung-Min"
+        }
+      ]
+    },
+    "CZE": {
+      "formation": "3-4-2-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Jindrich Stanek"
+        },
+        {
+          "role": "RCB",
+          "name": "Tomas Holes"
+        },
+        {
+          "role": "CB",
+          "name": "Ladislav Krejci"
+        },
+        {
+          "role": "LCB",
+          "name": "David Zima"
+        },
+        {
+          "role": "RWB",
+          "name": "Vladimir Coufal"
+        },
+        {
+          "role": "CM",
+          "name": "Tomas Soucek"
+        },
+        {
+          "role": "CM",
+          "name": "Lukas Provod"
+        },
+        {
+          "role": "LWB",
+          "name": "David Jurasek"
+        },
+        {
+          "role": "AM",
+          "name": "Adam Hlozek"
+        },
+        {
+          "role": "AM",
+          "name": "Pavel Sulc"
+        },
+        {
+          "role": "ST",
+          "name": "Patrik Schick"
+        }
+      ]
+    },
+    "CAN": {
+      "formation": "3-4-2-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Maxime Crepeau"
+        },
+        {
+          "role": "CB",
+          "name": "Alistair Johnston"
+        },
+        {
+          "role": "CB",
+          "name": "Moise Bombito"
+        },
+        {
+          "role": "CB",
+          "name": "Derek Cornelius"
+        },
+        {
+          "role": "RWB",
+          "name": "Tajon Buchanan"
+        },
+        {
+          "role": "CM",
+          "name": "Stephen Eustaquio"
+        },
+        {
+          "role": "CM",
+          "name": "Ismael Kone"
+        },
+        {
+          "role": "LWB",
+          "name": "Alphonso Davies"
+        },
+        {
+          "role": "AM",
+          "name": "Jonathan David"
+        },
+        {
+          "role": "AM",
+          "name": "Cyle Larin"
+        },
+        {
+          "role": "ST",
+          "name": "Tani Oluwaseyi"
+        }
+      ]
+    },
+    "BIH": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Nikola Vasilj"
+        },
+        {
+          "role": "RB",
+          "name": "Amar Dedic"
+        },
+        {
+          "role": "CB",
+          "name": "Dennis Hadzikadunic"
+        },
+        {
+          "role": "CB",
+          "name": "Sead Kolasinac"
+        },
+        {
+          "role": "LB",
+          "name": "Nidal Celik"
+        },
+        {
+          "role": "DM",
+          "name": "Benjamin Tahirovic"
+        },
+        {
+          "role": "DM",
+          "name": "Amir Hadziahmetovic"
+        },
+        {
+          "role": "RW",
+          "name": "Esmir Bajraktarevic"
+        },
+        {
+          "role": "AM",
+          "name": "Kerim Alajbegovic"
+        },
+        {
+          "role": "LW",
+          "name": "Ermedin Demirovic"
+        },
+        {
+          "role": "ST",
+          "name": "Edin Dzeko"
+        }
+      ]
+    },
+    "QAT": {
+      "formation": "3-5-2",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Meshaal Barsham"
+        },
+        {
+          "role": "RCB",
+          "name": "Pedro Miguel"
+        },
+        {
+          "role": "CB",
+          "name": "Boualem Khoukhi"
+        },
+        {
+          "role": "LCB",
+          "name": "Lucas Mendes"
+        },
+        {
+          "role": "RWB",
+          "name": "Homam Al-Amin"
+        },
+        {
+          "role": "CM",
+          "name": "Assim Madibo"
+        },
+        {
+          "role": "CM",
+          "name": "Jassim Gaber"
+        },
+        {
+          "role": "CM",
+          "name": "Abdulaziz Hatem"
+        },
+        {
+          "role": "LWB",
+          "name": "Akram Afif"
+        },
+        {
+          "role": "ST",
+          "name": "Almoez Ali"
+        },
+        {
+          "role": "ST",
+          "name": "Yusuf Abdurisag"
+        }
+      ]
+    },
+    "SUI": {
+      "formation": "3-4-2-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Gregor Kobel"
+        },
+        {
+          "role": "RCB",
+          "name": "Nico Elvedi"
+        },
+        {
+          "role": "CB",
+          "name": "Manuel Akanji"
+        },
+        {
+          "role": "LCB",
+          "name": "Ricardo Rodriguez"
+        },
+        {
+          "role": "RWB",
+          "name": "Silvan Widmer"
+        },
+        {
+          "role": "CM",
+          "name": "Granit Xhaka"
+        },
+        {
+          "role": "CM",
+          "name": "Remo Freuler"
+        },
+        {
+          "role": "LWB",
+          "name": "Miro Muheim"
+        },
+        {
+          "role": "AM",
+          "name": "Dan Ndoye"
+        },
+        {
+          "role": "AM",
+          "name": "Ruben Vargas"
+        },
+        {
+          "role": "ST",
+          "name": "Breel Embolo"
+        }
+      ]
+    },
+    "BRA": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Alisson"
+        },
+        {
+          "role": "RB",
+          "name": "Danilo"
+        },
+        {
+          "role": "CB",
+          "name": "Marquinhos"
+        },
+        {
+          "role": "CB",
+          "name": "Gabriel Magalhaes"
+        },
+        {
+          "role": "LB",
+          "name": "Alex Sandro"
+        },
+        {
+          "role": "DM",
+          "name": "Bruno Guimaraes"
+        },
+        {
+          "role": "DM",
+          "name": "Casemiro"
+        },
+        {
+          "role": "RW",
+          "name": "Raphinha"
+        },
+        {
+          "role": "AM",
+          "name": "Neymar"
+        },
+        {
+          "role": "LW",
+          "name": "Vinicius Junior"
+        },
+        {
+          "role": "ST",
+          "name": "Matheus Cunha"
+        }
+      ]
+    },
+    "HAI": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Johny Placide"
+        },
+        {
+          "role": "RB",
+          "name": "Carlens Arcus"
+        },
+        {
+          "role": "CB",
+          "name": "Ricardo Ade"
+        },
+        {
+          "role": "CB",
+          "name": "Jean-Kevin Duverne"
+        },
+        {
+          "role": "LB",
+          "name": "Hannes Delcroix"
+        },
+        {
+          "role": "CM",
+          "name": "Danley Jean Jacques"
+        },
+        {
+          "role": "CM",
+          "name": "Jean-Ricner Bellegarde"
+        },
+        {
+          "role": "CM",
+          "name": "Leverton Pierre"
+        },
+        {
+          "role": "RW",
+          "name": "Duckens Nazon"
+        },
+        {
+          "role": "ST",
+          "name": "Frantzdy Pierrot"
+        },
+        {
+          "role": "LW",
+          "name": "Wilson Isidor"
+        }
+      ]
+    },
+    "MAR": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Yassine Bounou"
+        },
+        {
+          "role": "RB",
+          "name": "Achraf Hakimi"
+        },
+        {
+          "role": "CB",
+          "name": "Nayef Aguerd"
+        },
+        {
+          "role": "CB",
+          "name": "Romain Saiss"
+        },
+        {
+          "role": "LB",
+          "name": "Noussair Mazraoui"
+        },
+        {
+          "role": "CM",
+          "name": "Sofyan Amrabat"
+        },
+        {
+          "role": "CM",
+          "name": "Azzedine Ounahi"
+        },
+        {
+          "role": "CM",
+          "name": "Bilal El Khannouss"
+        },
+        {
+          "role": "RW",
+          "name": "Hakim Ziyech"
+        },
+        {
+          "role": "ST",
+          "name": "Youssef En-Nesyri"
+        },
+        {
+          "role": "LW",
+          "name": "Brahim Diaz"
+        }
+      ]
+    },
+    "SCO": {
+      "formation": "3-4-2-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Angus Gunn"
+        },
+        {
+          "role": "RCB",
+          "name": "John Souttar"
+        },
+        {
+          "role": "CB",
+          "name": "Grant Hanley"
+        },
+        {
+          "role": "LCB",
+          "name": "Kieran Tierney"
+        },
+        {
+          "role": "RWB",
+          "name": "Aaron Hickey"
+        },
+        {
+          "role": "CM",
+          "name": "Billy Gilmour"
+        },
+        {
+          "role": "CM",
+          "name": "Scott McTominay"
+        },
+        {
+          "role": "LWB",
+          "name": "Andy Robertson"
+        },
+        {
+          "role": "AM",
+          "name": "John McGinn"
+        },
+        {
+          "role": "AM",
+          "name": "Ryan Christie"
+        },
+        {
+          "role": "ST",
+          "name": "Che Adams"
+        }
+      ]
+    },
+    "USA": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Matt Turner"
+        },
+        {
+          "role": "RB",
+          "name": "Sergino Dest"
+        },
+        {
+          "role": "CB",
+          "name": "Chris Richards"
+        },
+        {
+          "role": "CB",
+          "name": "Tim Ream"
+        },
+        {
+          "role": "LB",
+          "name": "Antonee Robinson"
+        },
+        {
+          "role": "CM",
+          "name": "Tyler Adams"
+        },
+        {
+          "role": "CM",
+          "name": "Weston McKennie"
+        },
+        {
+          "role": "CM",
+          "name": "Yunus Musah"
+        },
+        {
+          "role": "RW",
+          "name": "Christian Pulisic"
+        },
+        {
+          "role": "ST",
+          "name": "Folarin Balogun"
+        },
+        {
+          "role": "LW",
+          "name": "Giovanni Reyna"
+        }
+      ]
+    },
+    "PAR": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Roberto Fernandez"
+        },
+        {
+          "role": "RB",
+          "name": "Juan Caceres"
+        },
+        {
+          "role": "CB",
+          "name": "Gustavo Gomez"
+        },
+        {
+          "role": "CB",
+          "name": "Junior Alonso"
+        },
+        {
+          "role": "LB",
+          "name": "Diego Leon"
+        },
+        {
+          "role": "DM",
+          "name": "Andres Cubas"
+        },
+        {
+          "role": "DM",
+          "name": "Mathias Villasanti"
+        },
+        {
+          "role": "RW",
+          "name": "Ramon Sosa"
+        },
+        {
+          "role": "AM",
+          "name": "Miguel Almiron"
+        },
+        {
+          "role": "LW",
+          "name": "Julio Enciso"
+        },
+        {
+          "role": "ST",
+          "name": "Antonio Sanabria"
+        }
+      ]
+    },
+    "AUS": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Mat Ryan"
+        },
+        {
+          "role": "RB",
+          "name": "Nathaniel Atkinson"
+        },
+        {
+          "role": "CB",
+          "name": "Harry Souttar"
+        },
+        {
+          "role": "CB",
+          "name": "Kye Rowles"
+        },
+        {
+          "role": "LB",
+          "name": "Aziz Behich"
+        },
+        {
+          "role": "DM",
+          "name": "Jackson Irvine"
+        },
+        {
+          "role": "DM",
+          "name": "Keanu Baccus"
+        },
+        {
+          "role": "RW",
+          "name": "Craig Goodwin"
+        },
+        {
+          "role": "AM",
+          "name": "Riley McGree"
+        },
+        {
+          "role": "LW",
+          "name": "Martin Boyle"
+        },
+        {
+          "role": "ST",
+          "name": "Mitchell Duke"
+        }
+      ]
+    },
+    "TUR": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Ugurcan Cakir"
+        },
+        {
+          "role": "RB",
+          "name": "Zeki Celik"
+        },
+        {
+          "role": "CB",
+          "name": "Merih Demiral"
+        },
+        {
+          "role": "CB",
+          "name": "Abdulkerim Bardakci"
+        },
+        {
+          "role": "LB",
+          "name": "Eren Elmali"
+        },
+        {
+          "role": "DM",
+          "name": "Hakan Calhanoglu"
+        },
+        {
+          "role": "DM",
+          "name": "Ismail Yuksek"
+        },
+        {
+          "role": "RW",
+          "name": "Arda Guler"
+        },
+        {
+          "role": "AM",
+          "name": "Orkun Kokcu"
+        },
+        {
+          "role": "LW",
+          "name": "Kenan Yildiz"
+        },
+        {
+          "role": "ST",
+          "name": "Baris Alper Yilmaz"
+        }
+      ]
+    },
+    "CUW": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Eloy Room"
+        },
+        {
+          "role": "RB",
+          "name": "Joshua Brenet"
+        },
+        {
+          "role": "CB",
+          "name": "Riechedly Bazoer"
+        },
+        {
+          "role": "CB",
+          "name": "Roshon van Eijma"
+        },
+        {
+          "role": "LB",
+          "name": "Jurien Gaari"
+        },
+        {
+          "role": "DM",
+          "name": "Leandro Bacuna"
+        },
+        {
+          "role": "DM",
+          "name": "Juninho Bacuna"
+        },
+        {
+          "role": "RW",
+          "name": "Tahith Chong"
+        },
+        {
+          "role": "AM",
+          "name": "Sontje Hansen"
+        },
+        {
+          "role": "LW",
+          "name": "Brandley Kuwas"
+        },
+        {
+          "role": "ST",
+          "name": "Jurgen Locadia"
+        }
+      ]
+    },
+    "ECU": {
+      "formation": "3-4-2-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Hernan Galindez"
+        },
+        {
+          "role": "CB",
+          "name": "Felix Torres"
+        },
+        {
+          "role": "CB",
+          "name": "Willian Pacho"
+        },
+        {
+          "role": "CB",
+          "name": "Piero Hincapie"
+        },
+        {
+          "role": "RWB",
+          "name": "Angelo Preciado"
+        },
+        {
+          "role": "CM",
+          "name": "Moises Caicedo"
+        },
+        {
+          "role": "CM",
+          "name": "Alan Franco"
+        },
+        {
+          "role": "LWB",
+          "name": "Pervis Estupinan"
+        },
+        {
+          "role": "AM",
+          "name": "Kendry Paez"
+        },
+        {
+          "role": "AM",
+          "name": "Gonzalo Plata"
+        },
+        {
+          "role": "ST",
+          "name": "Enner Valencia"
+        }
+      ]
+    },
+    "GER": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Manuel Neuer"
+        },
+        {
+          "role": "RB",
+          "name": "Joshua Kimmich"
+        },
+        {
+          "role": "CB",
+          "name": "Antonio Rudiger"
+        },
+        {
+          "role": "CB",
+          "name": "Nico Schlotterbeck"
+        },
+        {
+          "role": "LB",
+          "name": "David Raum"
+        },
+        {
+          "role": "DM",
+          "name": "Aleksandar Pavlovic"
+        },
+        {
+          "role": "DM",
+          "name": "Leon Goretzka"
+        },
+        {
+          "role": "RW",
+          "name": "Leroy Sane"
+        },
+        {
+          "role": "AM",
+          "name": "Florian Wirtz"
+        },
+        {
+          "role": "LW",
+          "name": "Jamal Musiala"
+        },
+        {
+          "role": "ST",
+          "name": "Kai Havertz"
+        }
+      ]
+    },
+    "CIV": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Yahia Fofana"
+        },
+        {
+          "role": "RB",
+          "name": "Guela Doue"
+        },
+        {
+          "role": "CB",
+          "name": "Odilon Kossounou"
+        },
+        {
+          "role": "CB",
+          "name": "Evan Ndicka"
+        },
+        {
+          "role": "LB",
+          "name": "Ghislain Konan"
+        },
+        {
+          "role": "CM",
+          "name": "Ibrahim Sangare"
+        },
+        {
+          "role": "CM",
+          "name": "Franck Kessie"
+        },
+        {
+          "role": "CM",
+          "name": "Seko Fofana"
+        },
+        {
+          "role": "RW",
+          "name": "Amad Diallo"
+        },
+        {
+          "role": "ST",
+          "name": "Elye Wahi"
+        },
+        {
+          "role": "LW",
+          "name": "Simon Adingra"
+        }
+      ]
+    },
+    "JPN": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Zion Suzuki"
+        },
+        {
+          "role": "RB",
+          "name": "Yukinari Sugawara"
+        },
+        {
+          "role": "CB",
+          "name": "Ko Itakura"
+        },
+        {
+          "role": "CB",
+          "name": "Takehiro Tomiyasu"
+        },
+        {
+          "role": "LB",
+          "name": "Hiroki Ito"
+        },
+        {
+          "role": "DM",
+          "name": "Wataru Endo"
+        },
+        {
+          "role": "DM",
+          "name": "Ao Tanaka"
+        },
+        {
+          "role": "RW",
+          "name": "Takefusa Kubo"
+        },
+        {
+          "role": "AM",
+          "name": "Daichi Kamada"
+        },
+        {
+          "role": "LW",
+          "name": "Ritsu Doan"
+        },
+        {
+          "role": "ST",
+          "name": "Ayase Ueda"
+        }
+      ]
+    },
+    "NED": {
+      "formation": "3-4-2-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Bart Verbruggen"
+        },
+        {
+          "role": "CB",
+          "name": "Matthijs de Ligt"
+        },
+        {
+          "role": "CB",
+          "name": "Virgil van Dijk"
+        },
+        {
+          "role": "CB",
+          "name": "Nathan Ake"
+        },
+        {
+          "role": "RWB",
+          "name": "Denzel Dumfries"
+        },
+        {
+          "role": "CM",
+          "name": "Frenkie de Jong"
+        },
+        {
+          "role": "CM",
+          "name": "Tijjani Reijnders"
+        },
+        {
+          "role": "LWB",
+          "name": "Jeremie Frimpong"
+        },
+        {
+          "role": "AM",
+          "name": "Xavi Simons"
+        },
+        {
+          "role": "AM",
+          "name": "Cody Gakpo"
+        },
+        {
+          "role": "ST",
+          "name": "Memphis Depay"
+        }
+      ]
+    },
+    "SWE": {
+      "formation": "4-4-2",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Viktor Johansson"
+        },
+        {
+          "role": "RB",
+          "name": "Emil Holm"
+        },
+        {
+          "role": "CB",
+          "name": "Victor Lindelof"
+        },
+        {
+          "role": "CB",
+          "name": "Isak Hien"
+        },
+        {
+          "role": "LB",
+          "name": "Gabriel Gudmundsson"
+        },
+        {
+          "role": "RM",
+          "name": "Anthony Elanga"
+        },
+        {
+          "role": "CM",
+          "name": "Lucas Bergvall"
+        },
+        {
+          "role": "CM",
+          "name": "Yasin Ayari"
+        },
+        {
+          "role": "LM",
+          "name": "Ken Sema"
+        },
+        {
+          "role": "ST",
+          "name": "Alexander Isak"
+        },
+        {
+          "role": "ST",
+          "name": "Viktor Gyokeres"
+        }
+      ]
+    },
+    "TUN": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Aymen Dahmen"
+        },
+        {
+          "role": "RB",
+          "name": "Yan Valery"
+        },
+        {
+          "role": "CB",
+          "name": "Montassar Talbi"
+        },
+        {
+          "role": "CB",
+          "name": "Dylan Bronn"
+        },
+        {
+          "role": "LB",
+          "name": "Ali Abdi"
+        },
+        {
+          "role": "CM",
+          "name": "Ellyes Skhiri"
+        },
+        {
+          "role": "CM",
+          "name": "Hannibal Mejbri"
+        },
+        {
+          "role": "CM",
+          "name": "Anis Ben Slimane"
+        },
+        {
+          "role": "RW",
+          "name": "Elias Achouri"
+        },
+        {
+          "role": "ST",
+          "name": "Hazem Mastouri"
+        },
+        {
+          "role": "LW",
+          "name": "Ismael Gharbi"
+        }
+      ]
+    },
+    "BEL": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Thibaut Courtois"
+        },
+        {
+          "role": "RB",
+          "name": "Timothy Castagne"
+        },
+        {
+          "role": "CB",
+          "name": "Zeno Debast"
+        },
+        {
+          "role": "CB",
+          "name": "Arthur Theate"
+        },
+        {
+          "role": "LB",
+          "name": "Maxim De Cuyper"
+        },
+        {
+          "role": "DM",
+          "name": "Amadou Onana"
+        },
+        {
+          "role": "DM",
+          "name": "Youri Tielemans"
+        },
+        {
+          "role": "RW",
+          "name": "Jeremy Doku"
+        },
+        {
+          "role": "AM",
+          "name": "Kevin De Bruyne"
+        },
+        {
+          "role": "LW",
+          "name": "Leandro Trossard"
+        },
+        {
+          "role": "ST",
+          "name": "Romelu Lukaku"
+        }
+      ]
+    },
+    "EGY": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Mohamed El Shenawy"
+        },
+        {
+          "role": "RB",
+          "name": "Mohamed Hany"
+        },
+        {
+          "role": "CB",
+          "name": "Mohamed Abdelmonem"
+        },
+        {
+          "role": "CB",
+          "name": "Yasser Ibrahim"
+        },
+        {
+          "role": "LB",
+          "name": "Ahmed Fatouh"
+        },
+        {
+          "role": "CM",
+          "name": "Marwan Ateya"
+        },
+        {
+          "role": "CM",
+          "name": "Emam Ashour"
+        },
+        {
+          "role": "CM",
+          "name": "Mahmoud Trezeguet"
+        },
+        {
+          "role": "RW",
+          "name": "Mohamed Salah"
+        },
+        {
+          "role": "ST",
+          "name": "Omar Marmoush"
+        },
+        {
+          "role": "LW",
+          "name": "Ibrahim Adel"
+        }
+      ]
+    },
+    "IRN": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Alireza Beiranvand"
+        },
+        {
+          "role": "RB",
+          "name": "Ramin Rezaeian"
+        },
+        {
+          "role": "CB",
+          "name": "Hossein Kanaani"
+        },
+        {
+          "role": "CB",
+          "name": "Shoja Khalilzadeh"
+        },
+        {
+          "role": "LB",
+          "name": "Milad Mohammadi"
+        },
+        {
+          "role": "DM",
+          "name": "Saeid Ezatolahi"
+        },
+        {
+          "role": "DM",
+          "name": "Saman Ghoddos"
+        },
+        {
+          "role": "RW",
+          "name": "Alireza Jahanbakhsh"
+        },
+        {
+          "role": "AM",
+          "name": "Mehdi Ghaedi"
+        },
+        {
+          "role": "LW",
+          "name": "Mohammad Mohebi"
+        },
+        {
+          "role": "ST",
+          "name": "Mehdi Taremi"
+        }
+      ]
+    },
+    "NZL": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Max Crocombe"
+        },
+        {
+          "role": "RB",
+          "name": "Tim Payne"
+        },
+        {
+          "role": "CB",
+          "name": "Tyler Bindon"
+        },
+        {
+          "role": "CB",
+          "name": "Michael Boxall"
+        },
+        {
+          "role": "LB",
+          "name": "Liberato Cacace"
+        },
+        {
+          "role": "CM",
+          "name": "Joe Bell"
+        },
+        {
+          "role": "CM",
+          "name": "Marko Stamenic"
+        },
+        {
+          "role": "CM",
+          "name": "Sarpreet Singh"
+        },
+        {
+          "role": "RW",
+          "name": "Callum McCowatt"
+        },
+        {
+          "role": "ST",
+          "name": "Chris Wood"
+        },
+        {
+          "role": "LW",
+          "name": "Ben Old"
+        }
+      ]
+    },
+    "CPV": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Vozinha"
+        },
+        {
+          "role": "RB",
+          "name": "Steven Moreira"
+        },
+        {
+          "role": "CB",
+          "name": "Logan Costa"
+        },
+        {
+          "role": "CB",
+          "name": "Pico"
+        },
+        {
+          "role": "LB",
+          "name": "Joao Paulo"
+        },
+        {
+          "role": "CM",
+          "name": "Kevin Pina"
+        },
+        {
+          "role": "CM",
+          "name": "Jamiro Monteiro"
+        },
+        {
+          "role": "CM",
+          "name": "Deroy Duarte"
+        },
+        {
+          "role": "RW",
+          "name": "Garry Rodrigues"
+        },
+        {
+          "role": "ST",
+          "name": "Dailon Livramento"
+        },
+        {
+          "role": "LW",
+          "name": "Ryan Mendes"
+        }
+      ]
+    },
+    "SAU": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Mohammed Al-Owais"
+        },
+        {
+          "role": "RB",
+          "name": "Saud Abdulhamid"
+        },
+        {
+          "role": "CB",
+          "name": "Hassan Tambakti"
+        },
+        {
+          "role": "CB",
+          "name": "Ali Al-Bulaihi"
+        },
+        {
+          "role": "LB",
+          "name": "Yasser Al-Shahrani"
+        },
+        {
+          "role": "DM",
+          "name": "Mohamed Kanno"
+        },
+        {
+          "role": "DM",
+          "name": "Abdulelah Al-Malki"
+        },
+        {
+          "role": "RW",
+          "name": "Salem Al-Dawsari"
+        },
+        {
+          "role": "AM",
+          "name": "Sami Al-Najei"
+        },
+        {
+          "role": "LW",
+          "name": "Firas Al-Buraikan"
+        },
+        {
+          "role": "ST",
+          "name": "Saleh Al-Shehri"
+        }
+      ]
+    },
+    "ESP": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Unai Simon"
+        },
+        {
+          "role": "RB",
+          "name": "Pedro Porro"
+        },
+        {
+          "role": "CB",
+          "name": "Pau Cubarsi"
+        },
+        {
+          "role": "CB",
+          "name": "Aymeric Laporte"
+        },
+        {
+          "role": "LB",
+          "name": "Marc Cucurella"
+        },
+        {
+          "role": "CM",
+          "name": "Rodri"
+        },
+        {
+          "role": "CM",
+          "name": "Pedri"
+        },
+        {
+          "role": "CM",
+          "name": "Fabian Ruiz"
+        },
+        {
+          "role": "RW",
+          "name": "Lamine Yamal"
+        },
+        {
+          "role": "ST",
+          "name": "Mikel Oyarzabal"
+        },
+        {
+          "role": "LW",
+          "name": "Nico Williams"
+        }
+      ]
+    },
+    "URU": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Sergio Rochet"
+        },
+        {
+          "role": "RB",
+          "name": "Nahitan Nandez"
+        },
+        {
+          "role": "CB",
+          "name": "Ronald Araujo"
+        },
+        {
+          "role": "CB",
+          "name": "Jose Maria Gimenez"
+        },
+        {
+          "role": "LB",
+          "name": "Matias Vina"
+        },
+        {
+          "role": "CM",
+          "name": "Manuel Ugarte"
+        },
+        {
+          "role": "CM",
+          "name": "Federico Valverde"
+        },
+        {
+          "role": "CM",
+          "name": "Rodrigo Bentancur"
+        },
+        {
+          "role": "RW",
+          "name": "Facundo Pellistri"
+        },
+        {
+          "role": "ST",
+          "name": "Darwin Nunez"
+        },
+        {
+          "role": "LW",
+          "name": "Luis Suarez"
+        }
+      ]
+    },
+    "FRA": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Mike Maignan"
+        },
+        {
+          "role": "RB",
+          "name": "Jules Kounde"
+        },
+        {
+          "role": "CB",
+          "name": "William Saliba"
+        },
+        {
+          "role": "CB",
+          "name": "Ibrahima Konate"
+        },
+        {
+          "role": "LB",
+          "name": "Theo Hernandez"
+        },
+        {
+          "role": "DM",
+          "name": "Aurelien Tchouameni"
+        },
+        {
+          "role": "DM",
+          "name": "Adrien Rabiot"
+        },
+        {
+          "role": "RW",
+          "name": "Ousmane Dembele"
+        },
+        {
+          "role": "AM",
+          "name": "Michael Olise"
+        },
+        {
+          "role": "LW",
+          "name": "Kylian Mbappe"
+        },
+        {
+          "role": "ST",
+          "name": "Marcus Thuram"
+        }
+      ]
+    },
+    "IRQ": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Jalal Hassan"
+        },
+        {
+          "role": "RB",
+          "name": "Hussein Ali"
+        },
+        {
+          "role": "CB",
+          "name": "Rebin Sulaka"
+        },
+        {
+          "role": "CB",
+          "name": "Zaid Tahseen"
+        },
+        {
+          "role": "LB",
+          "name": "Merchas Doski"
+        },
+        {
+          "role": "DM",
+          "name": "Amir Al-Ammari"
+        },
+        {
+          "role": "DM",
+          "name": "Zidane Iqbal"
+        },
+        {
+          "role": "RW",
+          "name": "Ali Jasim"
+        },
+        {
+          "role": "AM",
+          "name": "Bashar Resan"
+        },
+        {
+          "role": "LW",
+          "name": "Youssef Amyn"
+        },
+        {
+          "role": "ST",
+          "name": "Aymen Hussein"
+        }
+      ]
+    },
+    "NOR": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Orjan Nyland"
+        },
+        {
+          "role": "RB",
+          "name": "Julian Ryerson"
+        },
+        {
+          "role": "CB",
+          "name": "Kristoffer Ajer"
+        },
+        {
+          "role": "CB",
+          "name": "Leo Ostigard"
+        },
+        {
+          "role": "LB",
+          "name": "David Moller Wolfe"
+        },
+        {
+          "role": "CM",
+          "name": "Sander Berge"
+        },
+        {
+          "role": "CM",
+          "name": "Martin Odegaard"
+        },
+        {
+          "role": "CM",
+          "name": "Fredrik Aursnes"
+        },
+        {
+          "role": "RW",
+          "name": "Oscar Bobb"
+        },
+        {
+          "role": "ST",
+          "name": "Erling Haaland"
+        },
+        {
+          "role": "LW",
+          "name": "Antonio Nusa"
+        }
+      ]
+    },
+    "SEN": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Edouard Mendy"
+        },
+        {
+          "role": "RB",
+          "name": "Krepin Diatta"
+        },
+        {
+          "role": "CB",
+          "name": "Kalidou Koulibaly"
+        },
+        {
+          "role": "CB",
+          "name": "Moussa Niakhate"
+        },
+        {
+          "role": "LB",
+          "name": "Ismail Jakobs"
+        },
+        {
+          "role": "CM",
+          "name": "Idrissa Gana Gueye"
+        },
+        {
+          "role": "CM",
+          "name": "Pape Matar Sarr"
+        },
+        {
+          "role": "CM",
+          "name": "Lamine Camara"
+        },
+        {
+          "role": "RW",
+          "name": "Ismaila Sarr"
+        },
+        {
+          "role": "ST",
+          "name": "Nicolas Jackson"
+        },
+        {
+          "role": "LW",
+          "name": "Sadio Mane"
+        }
+      ]
+    },
+    "DZA": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Anthony Mandrea"
+        },
+        {
+          "role": "RB",
+          "name": "Youcef Atal"
+        },
+        {
+          "role": "CB",
+          "name": "Aissa Mandi"
+        },
+        {
+          "role": "CB",
+          "name": "Ramy Bensebaini"
+        },
+        {
+          "role": "LB",
+          "name": "Rayan Ait-Nouri"
+        },
+        {
+          "role": "CM",
+          "name": "Ismael Bennacer"
+        },
+        {
+          "role": "CM",
+          "name": "Houssem Aouar"
+        },
+        {
+          "role": "CM",
+          "name": "Nabil Bentaleb"
+        },
+        {
+          "role": "RW",
+          "name": "Riyad Mahrez"
+        },
+        {
+          "role": "ST",
+          "name": "Amine Gouiri"
+        },
+        {
+          "role": "LW",
+          "name": "Said Benrahma"
+        }
+      ]
+    },
+    "ARG": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Emiliano Martinez"
+        },
+        {
+          "role": "RB",
+          "name": "Nahuel Molina"
+        },
+        {
+          "role": "CB",
+          "name": "Cristian Romero"
+        },
+        {
+          "role": "CB",
+          "name": "Lisandro Martinez"
+        },
+        {
+          "role": "LB",
+          "name": "Nicolas Tagliafico"
+        },
+        {
+          "role": "CM",
+          "name": "Rodrigo De Paul"
+        },
+        {
+          "role": "CM",
+          "name": "Enzo Fernandez"
+        },
+        {
+          "role": "CM",
+          "name": "Alexis Mac Allister"
+        },
+        {
+          "role": "RW",
+          "name": "Lionel Messi"
+        },
+        {
+          "role": "ST",
+          "name": "Lautaro Martinez"
+        },
+        {
+          "role": "LW",
+          "name": "Julian Alvarez"
+        }
+      ]
+    },
+    "AUT": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Patrick Pentz"
+        },
+        {
+          "role": "RB",
+          "name": "Stefan Posch"
+        },
+        {
+          "role": "CB",
+          "name": "Kevin Danso"
+        },
+        {
+          "role": "CB",
+          "name": "David Alaba"
+        },
+        {
+          "role": "LB",
+          "name": "Alexander Prass"
+        },
+        {
+          "role": "DM",
+          "name": "Nicolas Seiwald"
+        },
+        {
+          "role": "DM",
+          "name": "Konrad Laimer"
+        },
+        {
+          "role": "RW",
+          "name": "Patrick Wimmer"
+        },
+        {
+          "role": "AM",
+          "name": "Christoph Baumgartner"
+        },
+        {
+          "role": "LW",
+          "name": "Marcel Sabitzer"
+        },
+        {
+          "role": "ST",
+          "name": "Marko Arnautovic"
+        }
+      ]
+    },
+    "JOR": {
+      "formation": "3-4-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Yazid Abulaila"
+        },
+        {
+          "role": "RCB",
+          "name": "Abdallah Nasib"
+        },
+        {
+          "role": "CB",
+          "name": "Yazan Al-Arab"
+        },
+        {
+          "role": "LCB",
+          "name": "Mohammad Abualnadi"
+        },
+        {
+          "role": "RWB",
+          "name": "Ehsan Haddad"
+        },
+        {
+          "role": "CM",
+          "name": "Nizar Al-Rashdan"
+        },
+        {
+          "role": "CM",
+          "name": "Noor Al-Rawabdeh"
+        },
+        {
+          "role": "LWB",
+          "name": "Mohammed Abu Hashish"
+        },
+        {
+          "role": "RW",
+          "name": "Mousa Al-Tamari"
+        },
+        {
+          "role": "ST",
+          "name": "Ali Olwan"
+        },
+        {
+          "role": "LW",
+          "name": "Ibrahim Sabra"
+        }
+      ]
+    },
+    "COL": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Camilo Vargas"
+        },
+        {
+          "role": "RB",
+          "name": "Daniel Munoz"
+        },
+        {
+          "role": "CB",
+          "name": "Davinson Sanchez"
+        },
+        {
+          "role": "CB",
+          "name": "Jhon Lucumi"
+        },
+        {
+          "role": "LB",
+          "name": "Johan Mojica"
+        },
+        {
+          "role": "DM",
+          "name": "Jefferson Lerma"
+        },
+        {
+          "role": "DM",
+          "name": "Richard Rios"
+        },
+        {
+          "role": "RW",
+          "name": "Jhon Arias"
+        },
+        {
+          "role": "AM",
+          "name": "James Rodriguez"
+        },
+        {
+          "role": "LW",
+          "name": "Luis Diaz"
+        },
+        {
+          "role": "ST",
+          "name": "Jhon Cordoba"
+        }
+      ]
+    },
+    "COD": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Lionel Mpasi"
+        },
+        {
+          "role": "RB",
+          "name": "Aaron Wan-Bissaka"
+        },
+        {
+          "role": "CB",
+          "name": "Chancel Mbemba"
+        },
+        {
+          "role": "CB",
+          "name": "Dylan Batubinsika"
+        },
+        {
+          "role": "LB",
+          "name": "Arthur Masuaku"
+        },
+        {
+          "role": "DM",
+          "name": "Edo Kayembe"
+        },
+        {
+          "role": "DM",
+          "name": "Charles Pickel"
+        },
+        {
+          "role": "RW",
+          "name": "Theo Bongonda"
+        },
+        {
+          "role": "AM",
+          "name": "Gael Kakuta"
+        },
+        {
+          "role": "LW",
+          "name": "Yoane Wissa"
+        },
+        {
+          "role": "ST",
+          "name": "Cedric Bakambu"
+        }
+      ]
+    },
+    "POR": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Diogo Costa"
+        },
+        {
+          "role": "RB",
+          "name": "Joao Cancelo"
+        },
+        {
+          "role": "CB",
+          "name": "Ruben Dias"
+        },
+        {
+          "role": "CB",
+          "name": "Goncalo Inacio"
+        },
+        {
+          "role": "LB",
+          "name": "Nuno Mendes"
+        },
+        {
+          "role": "CM",
+          "name": "Vitinha"
+        },
+        {
+          "role": "CM",
+          "name": "Joao Neves"
+        },
+        {
+          "role": "CM",
+          "name": "Bruno Fernandes"
+        },
+        {
+          "role": "RW",
+          "name": "Bernardo Silva"
+        },
+        {
+          "role": "ST",
+          "name": "Cristiano Ronaldo"
+        },
+        {
+          "role": "LW",
+          "name": "Rafael Leao"
+        }
+      ]
+    },
+    "UZB": {
+      "formation": "3-4-2-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Utkir Yusupov"
+        },
+        {
+          "role": "RCB",
+          "name": "Rustamjon Ashurmatov"
+        },
+        {
+          "role": "CB",
+          "name": "Abdukodir Khusanov"
+        },
+        {
+          "role": "LCB",
+          "name": "Farrukh Sayfiev"
+        },
+        {
+          "role": "RWB",
+          "name": "Khojiakbar Alijonov"
+        },
+        {
+          "role": "CM",
+          "name": "Odiljon Khamrobekov"
+        },
+        {
+          "role": "CM",
+          "name": "Otabek Shukurov"
+        },
+        {
+          "role": "LWB",
+          "name": "Sherzod Nasrullaev"
+        },
+        {
+          "role": "AM",
+          "name": "Abbosbek Fayzullaev"
+        },
+        {
+          "role": "AM",
+          "name": "Jaloliddin Masharipov"
+        },
+        {
+          "role": "ST",
+          "name": "Eldor Shomurodov"
+        }
+      ]
+    },
+    "CRO": {
+      "formation": "4-3-3",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Dominik Livakovic"
+        },
+        {
+          "role": "RB",
+          "name": "Josip Stanisic"
+        },
+        {
+          "role": "CB",
+          "name": "Josko Gvardiol"
+        },
+        {
+          "role": "CB",
+          "name": "Josip Sutalo"
+        },
+        {
+          "role": "LB",
+          "name": "Duje Caleta-Car"
+        },
+        {
+          "role": "CM",
+          "name": "Luka Modric"
+        },
+        {
+          "role": "CM",
+          "name": "Mateo Kovacic"
+        },
+        {
+          "role": "CM",
+          "name": "Petar Sucic"
+        },
+        {
+          "role": "RW",
+          "name": "Ivan Perisic"
+        },
+        {
+          "role": "ST",
+          "name": "Andrej Kramaric"
+        },
+        {
+          "role": "LW",
+          "name": "Ante Budimir"
+        }
+      ]
+    },
+    "ENG": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Jordan Pickford"
+        },
+        {
+          "role": "RB",
+          "name": "Reece James"
+        },
+        {
+          "role": "CB",
+          "name": "John Stones"
+        },
+        {
+          "role": "CB",
+          "name": "Marc Guehi"
+        },
+        {
+          "role": "LB",
+          "name": "Dan Burn"
+        },
+        {
+          "role": "DM",
+          "name": "Declan Rice"
+        },
+        {
+          "role": "DM",
+          "name": "Jude Bellingham"
+        },
+        {
+          "role": "RW",
+          "name": "Bukayo Saka"
+        },
+        {
+          "role": "AM",
+          "name": "Morgan Rogers"
+        },
+        {
+          "role": "LW",
+          "name": "Marcus Rashford"
+        },
+        {
+          "role": "ST",
+          "name": "Harry Kane"
+        }
+      ]
+    },
+    "GHA": {
+      "formation": "4-2-3-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Lawrence Ati-Zigi"
+        },
+        {
+          "role": "RB",
+          "name": "Alidu Seidu"
+        },
+        {
+          "role": "CB",
+          "name": "Alexander Djiku"
+        },
+        {
+          "role": "CB",
+          "name": "Mohammed Salisu"
+        },
+        {
+          "role": "LB",
+          "name": "Gideon Mensah"
+        },
+        {
+          "role": "DM",
+          "name": "Thomas Partey"
+        },
+        {
+          "role": "DM",
+          "name": "Salis Abdul Samed"
+        },
+        {
+          "role": "RW",
+          "name": "Mohammed Kudus"
+        },
+        {
+          "role": "AM",
+          "name": "Andre Ayew"
+        },
+        {
+          "role": "LW",
+          "name": "Kamaldeen Sulemana"
+        },
+        {
+          "role": "ST",
+          "name": "Inaki Williams"
+        }
+      ]
+    },
+    "PAN": {
+      "formation": "5-4-1",
+      "players": [
+        {
+          "role": "GK",
+          "name": "Orlando Mosquera"
+        },
+        {
+          "role": "RWB",
+          "name": "Amir Murillo"
+        },
+        {
+          "role": "CB",
+          "name": "Fidel Escobar"
+        },
+        {
+          "role": "CB",
+          "name": "Jose Cordoba"
+        },
+        {
+          "role": "CB",
+          "name": "Andres Andrade"
+        },
+        {
+          "role": "LWB",
+          "name": "Eric Davis"
+        },
+        {
+          "role": "RM",
+          "name": "Yoel Barcenas"
+        },
+        {
+          "role": "CM",
+          "name": "Anibal Godoy"
+        },
+        {
+          "role": "CM",
+          "name": "Adalberto Carrasquilla"
+        },
+        {
+          "role": "LM",
+          "name": "Jose Luis Rodriguez"
+        },
+        {
+          "role": "ST",
+          "name": "Ismael Diaz"
+        }
+      ]
+    }
+  },
+  "groupMatches": [
+    {
+      "group": "A",
+      "match": 1,
+      "venue": "Estadio Azteca, Mexico City",
+      "aCode": "MEX",
+      "bCode": "RSA",
+      "aWin": 0.3077,
+      "draw": 0.0947,
+      "bWin": 0.5976,
+      "pick": "away_win"
+    },
+    {
+      "group": "A",
+      "match": 2,
+      "venue": "Estadio Akron, Zapopan",
+      "aCode": "KOR",
+      "bCode": "CZE",
+      "aWin": 0.4348,
+      "draw": 0.1337,
+      "bWin": 0.4316,
+      "pick": "home_win"
+    },
+    {
+      "group": "A",
+      "match": 25,
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "aCode": "CZE",
+      "bCode": "RSA",
+      "aWin": 0.2879,
+      "draw": 0.0796,
+      "bWin": 0.6325,
+      "pick": "away_win"
+    },
+    {
+      "group": "A",
+      "match": 28,
+      "venue": "Estadio Akron, Zapopan",
+      "aCode": "MEX",
+      "bCode": "KOR",
+      "aWin": 0.2826,
+      "draw": 0.2104,
+      "bWin": 0.507,
+      "pick": "away_win"
+    },
+    {
+      "group": "A",
+      "match": 53,
+      "venue": "Estadio Azteca, Mexico City",
+      "aCode": "CZE",
+      "bCode": "MEX",
+      "aWin": 0.2858,
+      "draw": 0.1707,
+      "bWin": 0.5436,
+      "pick": "away_win"
+    },
+    {
+      "group": "A",
+      "match": 54,
+      "venue": "Estadio BBVA, Guadalupe",
+      "aCode": "RSA",
+      "bCode": "KOR",
+      "aWin": 0.3341,
+      "draw": 0.1891,
+      "bWin": 0.4768,
+      "pick": "away_win"
+    },
+    {
+      "group": "B",
+      "match": 3,
+      "venue": "BMO Field, Toronto",
+      "aCode": "CAN",
+      "bCode": "BIH",
+      "aWin": 0.4546,
+      "draw": 0.1526,
+      "bWin": 0.3928,
+      "pick": "home_win"
+    },
+    {
+      "group": "B",
+      "match": 8,
+      "venue": "Levi's Stadium, Santa Clara",
+      "aCode": "QAT",
+      "bCode": "SUI",
+      "aWin": 0.1069,
+      "draw": 0.0737,
+      "bWin": 0.8194,
+      "pick": "away_win"
+    },
+    {
+      "group": "B",
+      "match": 26,
+      "venue": "SoFi Stadium, Inglewood",
+      "aCode": "SUI",
+      "bCode": "BIH",
+      "aWin": 0.6029,
+      "draw": 0.1526,
+      "bWin": 0.2445,
+      "pick": "home_win"
+    },
+    {
+      "group": "B",
+      "match": 27,
+      "venue": "BC Place, Vancouver",
+      "aCode": "CAN",
+      "bCode": "QAT",
+      "aWin": 0.6714,
+      "draw": 0.1157,
+      "bWin": 0.213,
+      "pick": "home_win"
+    },
+    {
+      "group": "B",
+      "match": 51,
+      "venue": "BC Place, Vancouver",
+      "aCode": "SUI",
+      "bCode": "CAN",
+      "aWin": 0.4651,
+      "draw": 0.132,
+      "bWin": 0.4029,
+      "pick": "home_win"
+    },
+    {
+      "group": "B",
+      "match": 52,
+      "venue": "Lumen Field, Seattle",
+      "aCode": "BIH",
+      "bCode": "QAT",
+      "aWin": 0.5197,
+      "draw": 0.1126,
+      "bWin": 0.3677,
+      "pick": "home_win"
+    },
+    {
+      "group": "C",
+      "match": 7,
+      "venue": "MetLife Stadium, East Rutherford",
+      "aCode": "BRA",
+      "bCode": "MAR",
+      "aWin": 0.485,
+      "draw": 0.3066,
+      "bWin": 0.2085,
+      "pick": "home_win"
+    },
+    {
+      "group": "C",
+      "match": 5,
+      "venue": "Gillette Stadium, Foxborough",
+      "aCode": "HAI",
+      "bCode": "SCO",
+      "aWin": 0.167,
+      "draw": 0.0786,
+      "bWin": 0.7544,
+      "pick": "away_win"
+    },
+    {
+      "group": "C",
+      "match": 30,
+      "venue": "Gillette Stadium, Foxborough",
+      "aCode": "SCO",
+      "bCode": "MAR",
+      "aWin": 0.2119,
+      "draw": 0.1589,
+      "bWin": 0.6292,
+      "pick": "away_win"
+    },
+    {
+      "group": "C",
+      "match": 29,
+      "venue": "Lincoln Financial Field, Philadelphia",
+      "aCode": "BRA",
+      "bCode": "HAI",
+      "aWin": 0.852,
+      "draw": 0.1341,
+      "bWin": 0.0139,
+      "pick": "home_win"
+    },
+    {
+      "group": "C",
+      "match": 49,
+      "venue": "Hard Rock Stadium, Miami Gardens",
+      "aCode": "SCO",
+      "bCode": "BRA",
+      "aWin": 0.2266,
+      "draw": 0.1715,
+      "bWin": 0.602,
+      "pick": "away_win"
+    },
+    {
+      "group": "C",
+      "match": 50,
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "aCode": "MAR",
+      "bCode": "HAI",
+      "aWin": 0.8038,
+      "draw": 0.1275,
+      "bWin": 0.0688,
+      "pick": "home_win"
+    },
+    {
+      "group": "D",
+      "match": 4,
+      "venue": "SoFi Stadium, Inglewood",
+      "aCode": "USA",
+      "bCode": "PAR",
+      "aWin": 0.4235,
+      "draw": 0.1619,
+      "bWin": 0.4146,
+      "pick": "home_win"
+    },
+    {
+      "group": "D",
+      "match": 6,
+      "venue": "BC Place, Vancouver",
+      "aCode": "AUS",
+      "bCode": "TUR",
+      "aWin": 0.3673,
+      "draw": 0.1639,
+      "bWin": 0.4688,
+      "pick": "away_win"
+    },
+    {
+      "group": "D",
+      "match": 32,
+      "venue": "Lumen Field, Seattle",
+      "aCode": "USA",
+      "bCode": "AUS",
+      "aWin": 0.3606,
+      "draw": 0.2036,
+      "bWin": 0.4358,
+      "pick": "away_win"
+    },
+    {
+      "group": "D",
+      "match": 31,
+      "venue": "Levi's Stadium, Santa Clara",
+      "aCode": "TUR",
+      "bCode": "PAR",
+      "aWin": 0.4102,
+      "draw": 0.2114,
+      "bWin": 0.3785,
+      "pick": "home_win"
+    },
+    {
+      "group": "D",
+      "match": 59,
+      "venue": "SoFi Stadium, Inglewood",
+      "aCode": "TUR",
+      "bCode": "USA",
+      "aWin": 0.4393,
+      "draw": 0.2201,
+      "bWin": 0.3406,
+      "pick": "home_win"
+    },
+    {
+      "group": "D",
+      "match": 60,
+      "venue": "Levi's Stadium, Santa Clara",
+      "aCode": "PAR",
+      "bCode": "AUS",
+      "aWin": 0.3734,
+      "draw": 0.1818,
+      "bWin": 0.4448,
+      "pick": "away_win"
+    },
+    {
+      "group": "E",
+      "match": 10,
+      "venue": "NRG Stadium, Houston",
+      "aCode": "GER",
+      "bCode": "CUW",
+      "aWin": 0.8966,
+      "draw": 0.0767,
+      "bWin": 0.0267,
+      "pick": "home_win"
+    },
+    {
+      "group": "E",
+      "match": 9,
+      "venue": "Lincoln Financial Field, Philadelphia",
+      "aCode": "CIV",
+      "bCode": "ECU",
+      "aWin": 0.3803,
+      "draw": 0.1998,
+      "bWin": 0.42,
+      "pick": "away_win"
+    },
+    {
+      "group": "E",
+      "match": 33,
+      "venue": "BMO Field, Toronto",
+      "aCode": "GER",
+      "bCode": "CIV",
+      "aWin": 0.6076,
+      "draw": 0.2025,
+      "bWin": 0.1899,
+      "pick": "home_win"
+    },
+    {
+      "group": "E",
+      "match": 34,
+      "venue": "Arrowhead Stadium, Kansas City",
+      "aCode": "ECU",
+      "bCode": "CUW",
+      "aWin": 0.8066,
+      "draw": 0.1273,
+      "bWin": 0.0661,
+      "pick": "home_win"
+    },
+    {
+      "group": "E",
+      "match": 55,
+      "venue": "Lincoln Financial Field, Philadelphia",
+      "aCode": "CUW",
+      "bCode": "CIV",
+      "aWin": 0.2551,
+      "draw": 0.0724,
+      "bWin": 0.6726,
+      "pick": "away_win"
+    },
+    {
+      "group": "E",
+      "match": 56,
+      "venue": "MetLife Stadium, East Rutherford",
+      "aCode": "ECU",
+      "bCode": "GER",
+      "aWin": 0.2512,
+      "draw": 0.3413,
+      "bWin": 0.4076,
+      "pick": "away_win"
+    },
+    {
+      "group": "F",
+      "match": 11,
+      "venue": "AT&T Stadium, Arlington",
+      "aCode": "NED",
+      "bCode": "JPN",
+      "aWin": 0.5358,
+      "draw": 0.1811,
+      "bWin": 0.2832,
+      "pick": "home_win"
+    },
+    {
+      "group": "F",
+      "match": 12,
+      "venue": "Estadio BBVA, Guadalupe",
+      "aCode": "SWE",
+      "bCode": "TUN",
+      "aWin": 0.2521,
+      "draw": 0.0516,
+      "bWin": 0.6963,
+      "pick": "away_win"
+    },
+    {
+      "group": "F",
+      "match": 35,
+      "venue": "NRG Stadium, Houston",
+      "aCode": "NED",
+      "bCode": "SWE",
+      "aWin": 0.622,
+      "draw": 0.2793,
+      "bWin": 0.0986,
+      "pick": "home_win"
+    },
+    {
+      "group": "F",
+      "match": 36,
+      "venue": "Estadio BBVA, Guadalupe",
+      "aCode": "TUN",
+      "bCode": "JPN",
+      "aWin": 0.2171,
+      "draw": 0.1609,
+      "bWin": 0.622,
+      "pick": "away_win"
+    },
+    {
+      "group": "F",
+      "match": 57,
+      "venue": "AT&T Stadium, Arlington",
+      "aCode": "JPN",
+      "bCode": "SWE",
+      "aWin": 0.4925,
+      "draw": 0.2054,
+      "bWin": 0.3021,
+      "pick": "home_win"
+    },
+    {
+      "group": "F",
+      "match": 58,
+      "venue": "Arrowhead Stadium, Kansas City",
+      "aCode": "TUN",
+      "bCode": "NED",
+      "aWin": 0.1754,
+      "draw": 0.1717,
+      "bWin": 0.653,
+      "pick": "away_win"
+    },
+    {
+      "group": "G",
+      "match": 16,
+      "venue": "Lumen Field, Seattle",
+      "aCode": "BEL",
+      "bCode": "EGY",
+      "aWin": 0.7329,
+      "draw": 0.1521,
+      "bWin": 0.115,
+      "pick": "home_win"
+    },
+    {
+      "group": "G",
+      "match": 15,
+      "venue": "SoFi Stadium, Inglewood",
+      "aCode": "IRN",
+      "bCode": "NZL",
+      "aWin": 0.5722,
+      "draw": 0.2298,
+      "bWin": 0.1979,
+      "pick": "home_win"
+    },
+    {
+      "group": "G",
+      "match": 39,
+      "venue": "SoFi Stadium, Inglewood",
+      "aCode": "BEL",
+      "bCode": "IRN",
+      "aWin": 0.7573,
+      "draw": 0.1391,
+      "bWin": 0.1036,
+      "pick": "home_win"
+    },
+    {
+      "group": "G",
+      "match": 40,
+      "venue": "BC Place, Vancouver",
+      "aCode": "NZL",
+      "bCode": "EGY",
+      "aWin": 0.2263,
+      "draw": 0.1507,
+      "bWin": 0.623,
+      "pick": "away_win"
+    },
+    {
+      "group": "G",
+      "match": 63,
+      "venue": "Lumen Field, Seattle",
+      "aCode": "EGY",
+      "bCode": "IRN",
+      "aWin": 0.3475,
+      "draw": 0.169,
+      "bWin": 0.4835,
+      "pick": "away_win"
+    },
+    {
+      "group": "G",
+      "match": 64,
+      "venue": "BC Place, Vancouver",
+      "aCode": "NZL",
+      "bCode": "BEL",
+      "aWin": 0.1234,
+      "draw": 0.0598,
+      "bWin": 0.8168,
+      "pick": "away_win"
+    },
+    {
+      "group": "H",
+      "match": 14,
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "aCode": "ESP",
+      "bCode": "CPV",
+      "aWin": 0.9045,
+      "draw": 0.0553,
+      "bWin": 0.0402,
+      "pick": "home_win"
+    },
+    {
+      "group": "H",
+      "match": 13,
+      "venue": "Hard Rock Stadium, Miami Gardens",
+      "aCode": "SAU",
+      "bCode": "URU",
+      "aWin": 0.1637,
+      "draw": 0.1782,
+      "bWin": 0.6582,
+      "pick": "away_win"
+    },
+    {
+      "group": "H",
+      "match": 38,
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "aCode": "ESP",
+      "bCode": "SAU",
+      "aWin": 0.9269,
+      "draw": 0.0415,
+      "bWin": 0.0316,
+      "pick": "home_win"
+    },
+    {
+      "group": "H",
+      "match": 37,
+      "venue": "Hard Rock Stadium, Miami Gardens",
+      "aCode": "URU",
+      "bCode": "CPV",
+      "aWin": 0.7805,
+      "draw": 0.1253,
+      "bWin": 0.0943,
+      "pick": "home_win"
+    },
+    {
+      "group": "H",
+      "match": 65,
+      "venue": "NRG Stadium, Houston",
+      "aCode": "CPV",
+      "bCode": "SAU",
+      "aWin": 0.3388,
+      "draw": 0.1625,
+      "bWin": 0.4986,
+      "pick": "away_win"
+    },
+    {
+      "group": "H",
+      "match": 66,
+      "venue": "Estadio Akron, Zapopan",
+      "aCode": "URU",
+      "bCode": "ESP",
+      "aWin": 0.2862,
+      "draw": 0.0779,
+      "bWin": 0.6359,
+      "pick": "away_win"
+    },
+    {
+      "group": "I",
+      "match": 17,
+      "venue": "MetLife Stadium, East Rutherford",
+      "aCode": "FRA",
+      "bCode": "SEN",
+      "aWin": 0.6006,
+      "draw": 0.2945,
+      "bWin": 0.1049,
+      "pick": "home_win"
+    },
+    {
+      "group": "I",
+      "match": 18,
+      "venue": "Gillette Stadium, Foxborough",
+      "aCode": "IRQ",
+      "bCode": "NOR",
+      "aWin": 0.22,
+      "draw": 0.1609,
+      "bWin": 0.6191,
+      "pick": "away_win"
+    },
+    {
+      "group": "I",
+      "match": 42,
+      "venue": "Lincoln Financial Field, Philadelphia",
+      "aCode": "FRA",
+      "bCode": "IRQ",
+      "aWin": 0.9277,
+      "draw": 0.0607,
+      "bWin": 0.0117,
+      "pick": "home_win"
+    },
+    {
+      "group": "I",
+      "match": 41,
+      "venue": "MetLife Stadium, East Rutherford",
+      "aCode": "NOR",
+      "bCode": "SEN",
+      "aWin": 0.248,
+      "draw": 0.2147,
+      "bWin": 0.5372,
+      "pick": "away_win"
+    },
+    {
+      "group": "I",
+      "match": 61,
+      "venue": "Gillette Stadium, Foxborough",
+      "aCode": "NOR",
+      "bCode": "FRA",
+      "aWin": 0.1453,
+      "draw": 0.0855,
+      "bWin": 0.7692,
+      "pick": "away_win"
+    },
+    {
+      "group": "I",
+      "match": 62,
+      "venue": "BMO Field, Toronto",
+      "aCode": "SEN",
+      "bCode": "IRQ",
+      "aWin": 0.7695,
+      "draw": 0.0829,
+      "bWin": 0.1476,
+      "pick": "home_win"
+    },
+    {
+      "group": "J",
+      "match": 19,
+      "venue": "Arrowhead Stadium, Kansas City",
+      "aCode": "ARG",
+      "bCode": "DZA",
+      "aWin": 0.7706,
+      "draw": 0.0763,
+      "bWin": 0.1531,
+      "pick": "home_win"
+    },
+    {
+      "group": "J",
+      "match": 20,
+      "venue": "Levi's Stadium, Santa Clara",
+      "aCode": "AUT",
+      "bCode": "JOR",
+      "aWin": 0.7248,
+      "draw": 0.1136,
+      "bWin": 0.1616,
+      "pick": "home_win"
+    },
+    {
+      "group": "J",
+      "match": 43,
+      "venue": "AT&T Stadium, Arlington",
+      "aCode": "ARG",
+      "bCode": "AUT",
+      "aWin": 0.5874,
+      "draw": 0.18,
+      "bWin": 0.2326,
+      "pick": "home_win"
+    },
+    {
+      "group": "J",
+      "match": 44,
+      "venue": "Levi's Stadium, Santa Clara",
+      "aCode": "JOR",
+      "bCode": "DZA",
+      "aWin": 0.2573,
+      "draw": 0.0831,
+      "bWin": 0.6596,
+      "pick": "away_win"
+    },
+    {
+      "group": "J",
+      "match": 69,
+      "venue": "Arrowhead Stadium, Kansas City",
+      "aCode": "DZA",
+      "bCode": "AUT",
+      "aWin": 0.1978,
+      "draw": 0.2003,
+      "bWin": 0.6019,
+      "pick": "away_win"
+    },
+    {
+      "group": "J",
+      "match": 70,
+      "venue": "AT&T Stadium, Arlington",
+      "aCode": "JOR",
+      "bCode": "ARG",
+      "aWin": 0.1149,
+      "draw": 0.1037,
+      "bWin": 0.7813,
+      "pick": "away_win"
+    },
+    {
+      "group": "K",
+      "match": 23,
+      "venue": "NRG Stadium, Houston",
+      "aCode": "POR",
+      "bCode": "COD",
+      "aWin": 0.7873,
+      "draw": 0.191,
+      "bWin": 0.0217,
+      "pick": "home_win"
+    },
+    {
+      "group": "K",
+      "match": 24,
+      "venue": "Estadio Azteca, Mexico City",
+      "aCode": "UZB",
+      "bCode": "COL",
+      "aWin": 0.1746,
+      "draw": 0.194,
+      "bWin": 0.6314,
+      "pick": "away_win"
+    },
+    {
+      "group": "K",
+      "match": 47,
+      "venue": "NRG Stadium, Houston",
+      "aCode": "POR",
+      "bCode": "UZB",
+      "aWin": 0.8976,
+      "draw": 0.0782,
+      "bWin": 0.0242,
+      "pick": "home_win"
+    },
+    {
+      "group": "K",
+      "match": 48,
+      "venue": "Estadio Akron, Zapopan",
+      "aCode": "COL",
+      "bCode": "COD",
+      "aWin": 0.6351,
+      "draw": 0.3056,
+      "bWin": 0.0593,
+      "pick": "home_win"
+    },
+    {
+      "group": "K",
+      "match": 71,
+      "venue": "Hard Rock Stadium, Miami Gardens",
+      "aCode": "COL",
+      "bCode": "POR",
+      "aWin": 0.2722,
+      "draw": 0.139,
+      "bWin": 0.5888,
+      "pick": "away_win"
+    },
+    {
+      "group": "K",
+      "match": 72,
+      "venue": "Mercedes-Benz Stadium, Atlanta",
+      "aCode": "COD",
+      "bCode": "UZB",
+      "aWin": 0.3756,
+      "draw": 0.1394,
+      "bWin": 0.485,
+      "pick": "away_win"
+    },
+    {
+      "group": "L",
+      "match": 22,
+      "venue": "AT&T Stadium, Arlington",
+      "aCode": "ENG",
+      "bCode": "CRO",
+      "aWin": 0.3405,
+      "draw": 0.1204,
+      "bWin": 0.5392,
+      "pick": "away_win"
+    },
+    {
+      "group": "L",
+      "match": 21,
+      "venue": "BMO Field, Toronto",
+      "aCode": "GHA",
+      "bCode": "PAN",
+      "aWin": 0.4509,
+      "draw": 0.1104,
+      "bWin": 0.4387,
+      "pick": "home_win"
+    },
+    {
+      "group": "L",
+      "match": 45,
+      "venue": "Gillette Stadium, Foxborough",
+      "aCode": "ENG",
+      "bCode": "GHA",
+      "aWin": 0.7274,
+      "draw": 0.1708,
+      "bWin": 0.1017,
+      "pick": "home_win"
+    },
+    {
+      "group": "L",
+      "match": 46,
+      "venue": "BMO Field, Toronto",
+      "aCode": "PAN",
+      "bCode": "CRO",
+      "aWin": 0.2501,
+      "draw": 0.1266,
+      "bWin": 0.6233,
+      "pick": "away_win"
+    },
+    {
+      "group": "L",
+      "match": 67,
+      "venue": "MetLife Stadium, East Rutherford",
+      "aCode": "PAN",
+      "bCode": "ENG",
+      "aWin": 0.1921,
+      "draw": 0.2163,
+      "bWin": 0.5917,
+      "pick": "away_win"
+    },
+    {
+      "group": "L",
+      "match": 68,
+      "venue": "Lincoln Financial Field, Philadelphia",
+      "aCode": "CRO",
+      "bCode": "GHA",
+      "aWin": 0.6776,
+      "draw": 0.2209,
+      "bWin": 0.1015,
+      "pick": "home_win"
+    }
+  ],
+  "groupTables": {
+    "A": [
+      {
+        "team": "South Africa",
+        "code": "RSA",
+        "points": 5.06,
+        "gd": 0.98,
+        "gf": 3.49
+      },
+      {
+        "team": "South Korea",
+        "code": "KOR",
+        "points": 4.79,
+        "gd": 0.74,
+        "gf": 3.37
+      },
+      {
+        "team": "Mexico",
+        "code": "MEX",
+        "points": 3.88,
+        "gd": -0.51,
+        "gf": 2.74
+      },
+      {
+        "team": "Czech Republic",
+        "code": "CZE",
+        "points": 3.4,
+        "gd": -1.21,
+        "gf": 2.39
+      }
+    ],
+    "B": [
+      {
+        "team": "Switzerland",
+        "code": "SUI",
+        "points": 6.02,
+        "gd": 2.27,
+        "gf": 4.13
+      },
+      {
+        "team": "Canada",
+        "code": "CAN",
+        "points": 4.99,
+        "gd": 0.92,
+        "gf": 3.46
+      },
+      {
+        "team": "Bosnia and Herzegovina",
+        "code": "BIH",
+        "points": 3.89,
+        "gd": -0.54,
+        "gf": 2.73
+      },
+      {
+        "team": "Qatar",
+        "code": "QAT",
+        "points": 2.36,
+        "gd": -2.65,
+        "gf": 1.68
+      }
+    ],
+    "C": [
+      {
+        "team": "Brazil",
+        "code": "BRA",
+        "points": 6.43,
+        "gd": 2.98,
+        "gf": 4.49
+      },
+      {
+        "team": "Morocco",
+        "code": "MAR",
+        "points": 5.52,
+        "gd": 1.75,
+        "gf": 3.88
+      },
+      {
+        "team": "Scotland",
+        "code": "SCO",
+        "points": 3.99,
+        "gd": -0.41,
+        "gf": 2.79
+      },
+      {
+        "team": "Haiti",
+        "code": "HAI",
+        "points": 1.09,
+        "gd": -4.32,
+        "gf": 0.84
+      }
+    ],
+    "D": [
+      {
+        "team": "Turkey",
+        "code": "TUR",
+        "points": 4.55,
+        "gd": 0.46,
+        "gf": 3.23
+      },
+      {
+        "team": "Australia",
+        "code": "AUS",
+        "points": 4.29,
+        "gd": 0.09,
+        "gf": 3.05
+      },
+      {
+        "team": "Paraguay",
+        "code": "PAR",
+        "points": 4.05,
+        "gd": -0.22,
+        "gf": 2.89
+      },
+      {
+        "team": "United States",
+        "code": "USA",
+        "points": 3.96,
+        "gd": -0.33,
+        "gf": 2.84
+      }
+    ],
+    "E": [
+      {
+        "team": "Germany",
+        "code": "GER",
+        "points": 6.36,
+        "gd": 2.89,
+        "gf": 4.44
+      },
+      {
+        "team": "Ecuador",
+        "code": "ECU",
+        "points": 5.1,
+        "gd": 1.25,
+        "gf": 3.62
+      },
+      {
+        "team": "Ivory Coast",
+        "code": "CIV",
+        "points": 4.2,
+        "gd": -0.08,
+        "gf": 2.96
+      },
+      {
+        "team": "Curacao",
+        "code": "CUW",
+        "points": 1.32,
+        "gd": -4.06,
+        "gf": 0.97
+      }
+    ],
+    "F": [
+      {
+        "team": "Netherlands",
+        "code": "NED",
+        "points": 6.06,
+        "gd": 2.51,
+        "gf": 4.25
+      },
+      {
+        "team": "Japan",
+        "code": "JPN",
+        "points": 4.74,
+        "gd": 0.69,
+        "gf": 3.34
+      },
+      {
+        "team": "Tunisia",
+        "code": "TUN",
+        "points": 3.65,
+        "gd": -0.88,
+        "gf": 2.56
+      },
+      {
+        "team": "Sweden",
+        "code": "SWE",
+        "points": 2.49,
+        "gd": -2.32,
+        "gf": 1.84
+      }
+    ],
+    "G": [
+      {
+        "team": "Belgium",
+        "code": "BEL",
+        "points": 7.27,
+        "gd": 3.93,
+        "gf": 4.96
+      },
+      {
+        "team": "Iran",
+        "code": "IRN",
+        "points": 4.02,
+        "gd": -0.29,
+        "gf": 2.86
+      },
+      {
+        "team": "Egypt",
+        "code": "EGY",
+        "points": 3.73,
+        "gd": -0.71,
+        "gf": 2.64
+      },
+      {
+        "team": "New Zealand",
+        "code": "NZL",
+        "points": 2.08,
+        "gd": -2.93,
+        "gf": 1.54
+      }
+    ],
+    "H": [
+      {
+        "team": "Spain",
+        "code": "ESP",
+        "points": 7.58,
+        "gd": 4.22,
+        "gf": 5.11
+      },
+      {
+        "team": "Uruguay",
+        "code": "URU",
+        "points": 5.56,
+        "gd": 1.66,
+        "gf": 3.83
+      },
+      {
+        "team": "Saudi Arabia",
+        "code": "SAU",
+        "points": 2.46,
+        "gd": -2.46,
+        "gf": 1.77
+      },
+      {
+        "team": "Cape Verde",
+        "code": "CPV",
+        "points": 1.76,
+        "gd": -3.42,
+        "gf": 1.29
+      }
+    ],
+    "I": [
+      {
+        "team": "France",
+        "code": "FRA",
+        "points": 7.33,
+        "gd": 4.07,
+        "gf": 5.04
+      },
+      {
+        "team": "Senegal",
+        "code": "SEN",
+        "points": 4.83,
+        "gd": 0.83,
+        "gf": 3.42
+      },
+      {
+        "team": "Norway",
+        "code": "NOR",
+        "points": 3.5,
+        "gd": -1.03,
+        "gf": 2.49
+      },
+      {
+        "team": "Iraq",
+        "code": "IRQ",
+        "points": 1.44,
+        "gd": -3.87,
+        "gf": 1.06
+      }
+    ],
+    "J": [
+      {
+        "team": "Argentina",
+        "code": "ARG",
+        "points": 6.78,
+        "gd": 3.28,
+        "gf": 4.64
+      },
+      {
+        "team": "Austria",
+        "code": "AUT",
+        "points": 5.17,
+        "gd": 1.23,
+        "gf": 3.61
+      },
+      {
+        "team": "Algeria",
+        "code": "DZA",
+        "points": 3.39,
+        "gd": -1.24,
+        "gf": 2.38
+      },
+      {
+        "team": "Jordan",
+        "code": "JOR",
+        "points": 1.9,
+        "gd": -3.26,
+        "gf": 1.37
+      }
+    ],
+    "K": [
+      {
+        "team": "Portugal",
+        "code": "POR",
+        "points": 7.23,
+        "gd": 3.91,
+        "gf": 4.96
+      },
+      {
+        "team": "Colombia",
+        "code": "COL",
+        "points": 5.25,
+        "gd": 1.43,
+        "gf": 3.72
+      },
+      {
+        "team": "Uzbekistan",
+        "code": "UZB",
+        "points": 2.46,
+        "gd": -2.44,
+        "gf": 1.78
+      },
+      {
+        "team": "DR Congo",
+        "code": "COD",
+        "points": 2.01,
+        "gd": -2.9,
+        "gf": 1.55
+      }
+    ],
+    "L": [
+      {
+        "team": "Croatia",
+        "code": "CRO",
+        "points": 5.99,
+        "gd": 2.3,
+        "gf": 4.15
+      },
+      {
+        "team": "England",
+        "code": "ENG",
+        "points": 5.49,
+        "gd": 1.65,
+        "gf": 3.83
+      },
+      {
+        "team": "Panama",
+        "code": "PAN",
+        "points": 3.1,
+        "gd": -1.57,
+        "gf": 2.21
+      },
+      {
+        "team": "Ghana",
+        "code": "GHA",
+        "points": 2.46,
+        "gd": -2.38,
+        "gf": 1.81
+      }
+    ]
+  },
+  "annexC": {
+    "EFGHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3F",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "DFGHIJKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "DEGHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "DEFHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "DEFGIJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "DEFGHJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "DEFGHIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "DEFGHIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "DEFGHIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "CFGHIJKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CEGHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CEFHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CEFGIJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CEFGHJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CEFGHIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CEFGHIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "CEFGHIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "CDGHIJKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDFHIJKL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDFGIJKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDFGHJKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDFGHIKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDFGHIJL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "CDFGHIJK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "CDEHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDEGIJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDEGHJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDEGHIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDEGHIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "CDEGHIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "CDEFIJKL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDEFHJKL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDEFHIKL": {
+      "M79": "3C",
+      "M85": "3E",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDEFHIJL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "CDEFHIJK": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "CDEFGJKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDEFGIKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDEFGIJL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "CDEFGIJK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "CDEFGHKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "CDEFGHJL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "CDEFGHJK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "CDEFGHIL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "CDEFGHIK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "CDEFGHIJ": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "BFGHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3I",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BEGHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3B",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BEFHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3I",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BEFGIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3I",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BEFGHJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BEFGHIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3I",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BEFGHIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BEFGHIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BDGHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDFHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDFGIJKL": {
+      "M79": "3I",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDFGHJKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDFGHIKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDFGHIJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BDFGHIJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BDEHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDEGIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDEGHJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDEGHIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDEGHIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BDEGHIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BDEFIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDEFHJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDEFHIKL": {
+      "M79": "3E",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDEFHIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BDEFHIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BDEFGJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDEFGIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDEFGIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BDEFGIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BDEFGHKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BDEFGHJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "BDEFGHJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "BDEFGHIL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BDEFGHIK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BDEFGHIJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "BCGHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCFHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCFGIJKL": {
+      "M79": "3I",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCFGHJKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCFGHIKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCFGHIJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCFGHIJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCEHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCEGIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCEGHJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCEGHIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCEGHIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCEGHIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCEFIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCEFHJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCEFHIKL": {
+      "M79": "3E",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCEFHIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCEFHIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCEFGJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCEFGIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCEFGIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCEFGIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCEFGHKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCEFGHJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "BCEFGHJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "BCEFGHIL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCEFGHIK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCEFGHIJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "BCDHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDGIJKL": {
+      "M79": "3I",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDGHJKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDGHIKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDGHIJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCDGHIJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCDFIJKL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDFHJKL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDFHIKL": {
+      "M79": "3C",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDFHIJL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCDFHIJK": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCDFGJKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDFGIKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDFGIJL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCDFGIJK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCDFGHKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDFGHJL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3J"
+    },
+    "BCDFGHJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3K"
+    },
+    "BCDFGHIL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCDFGHIK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCDFGHIJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3I"
+    },
+    "BCDEIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDEHJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDEHIKL": {
+      "M79": "3E",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDEHIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCDEHIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCDEGJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDEGIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3I",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDEGIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCDEGIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCDEGHKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDEGHJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "BCDEGHJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "BCDEGHIL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCDEGHIK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3H",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCDEGHIJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3D",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "BCDEFJKL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3E",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDEFIKL": {
+      "M79": "3C",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDEFIJL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3E",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCDEFIJK": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3E",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCDEFHKL": {
+      "M79": "3C",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDEFHJL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "BCDEFHJK": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "BCDEFHIL": {
+      "M79": "3C",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCDEFHIK": {
+      "M79": "3C",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCDEFHIJ": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "BCDEFGKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3E",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "BCDEFGJL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "BCDEFGJK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "BCDEFGIL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3E",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "BCDEFGIK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3E",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "BCDEFGIJ": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "BCDEFGHL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "BCDEFGHK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "BCDEFGHJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3J",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3E"
+    },
+    "BCDEFGHI": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3H",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "AFGHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "AEGHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3A",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "AEFHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "AEFGIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "AEFGHJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "AEFGHIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "AEFGHIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "AEFGHIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ADGHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADFHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADFGIJKL": {
+      "M79": "3I",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADFGHJKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADFGHIKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADFGHIJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ADFGHIJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ADEHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADEGIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADEGHJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADEGHIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADEGHIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ADEGHIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ADEFIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADEFHJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADEFHIKL": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADEFHIJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ADEFHIJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ADEFGJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADEFGIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADEFGIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ADEFGIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ADEFGHKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ADEFGHJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ADEFGHJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ADEFGHIL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ADEFGHIK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ADEFGHIJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ACGHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACFHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACFGIJKL": {
+      "M79": "3I",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACFGHJKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACFGHIKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACFGHIJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACFGHIJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACEHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACEGIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACEGHJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACEGHIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACEGHIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACEGHIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACEFIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACEFHJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACEFHIKL": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACEFHIJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACEFHIJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACEFGJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACEFGIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACEFGIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACEFGIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACEFGHKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACEFGHJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ACEFGHJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ACEFGHIL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACEFGHIK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACEFGHIJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ACDHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDGIJKL": {
+      "M79": "3I",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDGHJKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDGHIKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDGHIJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACDGHIJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACDFIJKL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDFHJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3F",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDFHIKL": {
+      "M79": "3H",
+      "M85": "3F",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDFHIJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3F",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACDFHIJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3F",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACDFGJKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDFGIKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDFGIJL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACDFGIJK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACDFGHKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3F",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDFGHJL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3H"
+    },
+    "ACDFGHJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3K"
+    },
+    "ACDFGHIL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3F",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACDFGHIK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3F",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACDFGHIJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3I"
+    },
+    "ACDEIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDEHJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDEHIKL": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDEHIJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACDEHIJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACDEGJKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDEGIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3I",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDEGIJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACDEGIJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACDEGHKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDEGHJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ACDEGHJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ACDEGHIL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACDEGHIK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACDEGHIJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ACDEFJKL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDEFIKL": {
+      "M79": "3C",
+      "M85": "3E",
+      "M81": "3I",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDEFIJL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACDEFIJK": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACDEFHKL": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3F",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDEFHJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3F",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ACDEFHJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3K"
+    },
+    "ACDEFHIL": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3F",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACDEFHIK": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3F",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACDEFHIJ": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3I"
+    },
+    "ACDEFGKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ACDEFGJL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ACDEFGJK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ACDEFGIL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ACDEFGIK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ACDEFGIJ": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ACDEFGHL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3F",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ACDEFGHK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3K"
+    },
+    "ACDEFGHJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3J",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3E"
+    },
+    "ACDEFGHI": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3E",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3I"
+    },
+    "ABGHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABFHIJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABFGIJKL": {
+      "M79": "3I",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABFGHJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABFGHIKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABFGHIJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABFGHIJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABEHIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABEGIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABEGHJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABEGHIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABEGHIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABEGHIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3H",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABEFIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABEFHJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABEFHIKL": {
+      "M79": "3E",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABEFHIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABEFHIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABEFGJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABEFGIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABEFGIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABEFGIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABEFGHKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABEFGHJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABEFGHJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ABEFGHIL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABEFGHIK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABEFGHIJ": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ABDHIJKL": {
+      "M79": "3I",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDGIJKL": {
+      "M79": "3I",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDGHJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDGHIKL": {
+      "M79": "3I",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDGHIJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABDGHIJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABDFIJKL": {
+      "M79": "3I",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDFHJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDFHIKL": {
+      "M79": "3H",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDFHIJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABDFHIJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABDFGJKL": {
+      "M79": "3F",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDFGIKL": {
+      "M79": "3I",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDFGIJL": {
+      "M79": "3F",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABDFGIJK": {
+      "M79": "3F",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABDFGHKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDFGHJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3J"
+    },
+    "ABDFGHJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3J",
+      "M80": "3K"
+    },
+    "ABDFGHIL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABDFGHIK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABDFGHIJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3J"
+    },
+    "ABDEIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDEHJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDEHIKL": {
+      "M79": "3E",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDEHIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABDEHIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABDEGJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDEGIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDEGIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABDEGIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABDEGHKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDEGHJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABDEGHJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ABDEGHIL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABDEGHIK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABDEGHIJ": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ABDEFJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDEFIKL": {
+      "M79": "3E",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDEFIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABDEFIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABDEFHKL": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDEFHJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABDEFHJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ABDEFHIL": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABDEFHIK": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABDEFHIJ": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ABDEFGKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABDEFGJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3J"
+    },
+    "ABDEFGJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3J",
+      "M80": "3K"
+    },
+    "ABDEFGIL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABDEFGIK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABDEFGIJ": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3J"
+    },
+    "ABDEFGHL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABDEFGHK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ABDEFGHJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3J"
+    },
+    "ABDEFGHI": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ABCHIJKL": {
+      "M79": "3I",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCGIJKL": {
+      "M79": "3I",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCGHJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCGHIKL": {
+      "M79": "3I",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCGHIJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCGHIJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCFIJKL": {
+      "M79": "3I",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCFHJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCFHIKL": {
+      "M79": "3H",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCFHIJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCFHIJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCFGJKL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCFGIKL": {
+      "M79": "3I",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCFGIJL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCFGIJK": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3F",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCFGHKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCFGHJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3J"
+    },
+    "ABCFGHJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3J",
+      "M80": "3K"
+    },
+    "ABCFGHIL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCFGHIK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCFGHIJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3J"
+    },
+    "ABCEIJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3C",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCEHJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCEHIKL": {
+      "M79": "3E",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCEHIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCEHIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCEGJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCEGIKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3A",
+      "M82": "3I",
+      "M77": "3C",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCEGIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCEGIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCEGHKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCEGHJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABCEGHJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ABCEGHIL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCEGHIK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3H",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCEGHIJ": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ABCEFJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCEFIKL": {
+      "M79": "3E",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCEFIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCEFIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCEFHKL": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCEFHJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABCEFHJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ABCEFHIL": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCEFHIK": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCEFHIJ": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ABCEFGKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCEFGJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3J"
+    },
+    "ABCEFGJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3J",
+      "M80": "3K"
+    },
+    "ABCEFGIL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCEFGIK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCEFGIJ": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3J"
+    },
+    "ABCEFGHL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABCEFGHK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ABCEFGHJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3J"
+    },
+    "ABCEFGHI": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ABCDIJKL": {
+      "M79": "3I",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDHJKL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDHIKL": {
+      "M79": "3H",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDHIJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCDHIJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCDGJKL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDGIKL": {
+      "M79": "3I",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDGIJL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCDGIJK": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3G",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCDGHKL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDGHJL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3J"
+    },
+    "ABCDGHJK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3J",
+      "M80": "3K"
+    },
+    "ABCDGHIL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCDGHIK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCDGHIJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3J"
+    },
+    "ABCDFJKL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDFIKL": {
+      "M79": "3C",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDFIJL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCDFIJK": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCDFHKL": {
+      "M79": "3H",
+      "M85": "3F",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDFHJL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3H"
+    },
+    "ABCDFHJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3K"
+    },
+    "ABCDFHIL": {
+      "M79": "3H",
+      "M85": "3F",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCDFHIK": {
+      "M79": "3H",
+      "M85": "3F",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCDFHIJ": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3I"
+    },
+    "ABCDFGKL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDFGJL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3J"
+    },
+    "ABCDFGJK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3J",
+      "M80": "3K"
+    },
+    "ABCDFGIL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCDFGIK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCDFGIJ": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3J"
+    },
+    "ABCDFGHL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3H"
+    },
+    "ABCDFGHK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3K"
+    },
+    "ABCDFGHJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3J"
+    },
+    "ABCDFGHI": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3I"
+    },
+    "ABCDEJKL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDEIKL": {
+      "M79": "3E",
+      "M85": "3I",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDEIJL": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCDEIJK": {
+      "M79": "3E",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCDEHKL": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDEHJL": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABCDEHJK": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ABCDEHIL": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCDEHIK": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCDEHIJ": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ABCDEGKL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDEGJL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3J"
+    },
+    "ABCDEGJK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3J",
+      "M80": "3K"
+    },
+    "ABCDEGIL": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCDEGIK": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCDEGIJ": {
+      "M79": "3E",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3I",
+      "M80": "3J"
+    },
+    "ABCDEGHL": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABCDEGHK": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ABCDEGHJ": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3E",
+      "M80": "3J"
+    },
+    "ABCDEGHI": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ABCDEFKL": {
+      "M79": "3C",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3K"
+    },
+    "ABCDEFJL": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABCDEFJK": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ABCDEFIL": {
+      "M79": "3C",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3I"
+    },
+    "ABCDEFIK": {
+      "M79": "3C",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3I",
+      "M80": "3K"
+    },
+    "ABCDEFIJ": {
+      "M79": "3C",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ABCDEFHL": {
+      "M79": "3H",
+      "M85": "3F",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3D",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABCDEFHK": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3K"
+    },
+    "ABCDEFHJ": {
+      "M79": "3H",
+      "M85": "3J",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3E"
+    },
+    "ABCDEFHI": {
+      "M79": "3H",
+      "M85": "3E",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3I"
+    },
+    "ABCDEFGL": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3L",
+      "M80": "3E"
+    },
+    "ABCDEFGK": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3K"
+    },
+    "ABCDEFGJ": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3J"
+    },
+    "ABCDEFGI": {
+      "M79": "3C",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3D",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3E",
+      "M80": "3I"
+    },
+    "ABCDEFGH": {
+      "M79": "3H",
+      "M85": "3G",
+      "M81": "3B",
+      "M74": "3C",
+      "M82": "3A",
+      "M77": "3F",
+      "M87": "3D",
+      "M80": "3E"
+    }
+  }
+}
